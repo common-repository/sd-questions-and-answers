@@ -1,0 +1,9 @@
+PROJECT_NAME	= Sweden&nbsp;Democrats'&nbsp;Questions&nbsp;&amp;&nbsp;Answers
+INPUT			= . include
+GENERATE_LATEX		= NO
+GENERATE_HTML		= YES
+HTML_OUTPUT		= apidoc
+
+ALIASES			+= "sdqa=SD Questions & Answers" 
+ALIASES			+= "wp_action=@par	Wordpress\nAction" 
+ALIASES			+= "wp_filter=@par	Wordpress\nFilter" 

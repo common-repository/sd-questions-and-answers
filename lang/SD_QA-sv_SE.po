@@ -1,0 +1,2443 @@
+# SD Meeting Tool
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Meeting Tool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-29 14:38+0200\n"
+"PO-Revision-Date: 2012-10-01 18:40+0100\n"
+"Last-Translator: Edward Plainview <edward@plainview.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SD_QA.php:2368
+#, php-format
+msgid "%s asks:"
+msgstr "%s frågar:"
+
+#: SD_QA.php:4427
+msgid "A copy of the session log will be pasted into this post after which the session can be removed from the session overview. Note that the correct CSS must be loaded by the theme."
+msgstr "Detta gör att en kopia på loggen sparas i inlägget varefter sessionen kan tas bort från översikten. Notera att passande CSS måste laddas av temat."
+
+#: SD_QA.php:1252
+msgid "A group of answer templates (see below)."
+msgstr "En grupp svarsmallar (se undertill)."
+
+#: SD_QA.php:1610
+msgid "Accept this question"
+msgstr "Godkänn frågan"
+
+#: SD_QA.php:3396
+msgid "Activate the session"
+msgstr "Aktivera sessionen"
+
+#: SD_QA.php:873
+msgid "Active filters"
+msgstr "Aktiva filtrar"
+
+#: SD_QA.php:910
+#: SD_QA.php:921
+msgid "Add a new message"
+msgstr "Lägg till ett nytt meddelande"
+
+#: SD_QA.php:3951
+msgid "After the page loads you will have to log in before being able to answer questions. Type in this e-mail address after which questions will begin appearing automatically, after the moderator accepts them from the site visitors."
+msgstr "Efter att sidan har laddats kommer du att behöva logga in för att besvara frågorna. Skriv in den här epostadressen i rutan, varefter kommer frågor från besökarna att automatiskt börja visas så fort moderatorn godkänner dem."
+
+#: SD_QA.php:3397
+msgid "Allows visitors to ask questions and guests to answer them."
+msgstr "Tillåter besökare att ställa frågor och gäster att besvara dem."
+
+#: SD_QA.php:3492
+msgid "Always current - use the time when the message was created"
+msgstr "Alltid nuvarande - använd tiden från när meddelandet skapades"
+
+#: SD_QA.php:1272
+#: SD_QA.php:1539
+#: SD_QA.php:2351
+msgid "Answer"
+msgstr "Svar"
+
+#: SD_QA.php:4357
+msgid "Answer questions"
+msgstr "Svara på frågor"
+
+#: SD_QA.php:2062
+msgid "Answered by"
+msgstr "Besvarat av"
+
+#: SD_QA.php:4358
+msgid "Answering a question"
+msgstr "Svarar på en fråga"
+
+#: SD_QA.php:1819
+msgid "Answers"
+msgstr "Svar"
+
+#: SD_QA.php:516
+#: SD_QA.php:808
+#: SD_QA.php:1124
+msgid "Apply"
+msgstr "Verkställ"
+
+#: SD_QA.php:4359
+msgid "Ask a question"
+msgstr "Ställ en fråga"
+
+#: SD_QA.php:1751
+msgid "At most 10 unmoderated questions will be displayed. Click on a question to edit it."
+msgstr "Som mest visas 10 omodererade frågor. Klicka på en fråga att redigera den."
+
+#: SD_QA.php:3478
+msgid "Automatically find links in answers and make them clickable. This also controls whether links are enabled in moderator messages."
+msgstr "Hittar länkar i svar automatiskt och gör de klickbara. Detta styr också ifall länkar tillåtas i moderatorsmeddelanden."
+
+#: SD_QA.php:3484
+msgid "Automatically find links in questions and make them clickable."
+msgstr "Hitta länkar i frågor automatiskt och gör de klickbara."
+
+#: SD_QA.php:1622
+msgid "Ban this IP address"
+msgstr "Banna IP-adressen"
+
+#: SD_QA.php:3417
+msgid "CSS class(es)"
+msgstr "CSS-klass(er)"
+
+#: SD_QA.php:1218
+msgid "CSS files"
+msgstr "CSS-filer"
+
+#: SD_QA.php:1231
+msgid "CSS style"
+msgstr "CSS-stil"
+
+#: SD_QA.php:2033
+msgid "Click on a question to answer it. Unanswered questions will be discarded at the end of the session."
+msgstr "Klicka på en fråga för att besvara den. Obesvarade frågor kommer att slängas efter sessionen."
+
+#: SD_QA.php:1786
+msgid "Clicking on a question or answer will open the edit dialog."
+msgstr "Klicka på en fråga eller svar för att öppna redigeringsrutan."
+
+#: SD_QA.php:1116
+msgid "Clone"
+msgstr "Klona"
+
+#: SD_QA.php:665
+#: SD_QA.php:670
+msgid "Close the session"
+msgstr "Stäng sessionen"
+
+#: SD_QA.php:480
+#, php-format
+msgid "Closed: %s"
+msgstr "Stängd: %s"
+
+#: SD_QA.php:672
+msgid "Closing the session will prevent any more questions and answers from being received and the log will be created."
+msgstr "När du stänger sessionen kommer inga fler frågor att mottas och en permanent logg kommer att skapas."
+
+#: SD_QA.php:4416
+msgid "Convert the shortcode to static text"
+msgstr "Konvertera kortkommandot till statisk text"
+
+#: SD_QA.php:1025
+#, php-format
+msgid "Copy of %s"
+msgstr "Kopia på %s"
+
+#: SD_QA.php:1158
+#: SD_QA.php:1163
+msgid "Create a new display template"
+msgstr "Skapa en ny visningsmall"
+
+#: SD_QA.php:716
+#: SD_QA.php:841
+msgid "Create a new guest"
+msgstr "Skapa en ny gäst"
+
+#: SD_QA.php:1553
+msgid "Create a new message with this answer"
+msgstr "Skapa ett nytt meddelande med det här svaret"
+
+#: SD_QA.php:551
+#: SD_QA.php:556
+msgid "Create a new session"
+msgstr "Skapa en ny session"
+
+#: SD_QA.php:1703
+msgid "Data"
+msgstr "Data"
+
+#: SD_QA.php:1263
+#: SD_QA.php:1277
+#: SD_QA.php:1298
+msgid "Date &amp; time"
+msgstr "Datum &amp; tid"
+
+#: SD_QA.php:1387
+msgid "Date and time keywords"
+msgstr "Datum- och tidsnyckelord"
+
+#: SD_QA.php:1263
+#: SD_QA.php:1277
+#: SD_QA.php:1298
+msgid "Date and time keywords, see bottom of page for a list."
+msgstr "Datum- och tidsnyckelord, see längst ner på sidan för en lista."
+
+#: SD_QA.php:3943
+#, php-format
+msgid "Default display template created %s"
+msgstr "Standardvisningsmall som skapades %s"
+
+#: SD_QA.php:509
+#: SD_QA.php:801
+#: SD_QA.php:1117
+#: SD_QA.php:1704
+msgid "Delete"
+msgstr "Ta bort"
+
+#: SD_QA.php:1559
+msgid "Delete the answer"
+msgstr "Ta bort svaret"
+
+#: SD_QA.php:1579
+msgid "Delete the message"
+msgstr "Ta bort meddelandet"
+
+#: SD_QA.php:1616
+#: SD_QA.php:1666
+msgid "Delete the question"
+msgstr "Ta bort frågan"
+
+#: SD_QA.php:1697
+msgid "Delete this filter"
+msgstr "Ta bort filtret"
+
+#: SD_QA.php:1192
+msgid "Description"
+msgstr "Beskrivning"
+
+#: SD_QA.php:3314
+msgid "Display settings"
+msgstr "Inställningar för visningsmallen"
+
+#: SD_QA.php:1143
+#: SD_QA.php:3408
+msgid "Display template"
+msgstr "Visningsmall"
+
+#: SD_QA.php:1046
+#, php-format
+msgid "Display template <em>%s</em> deleted."
+msgstr "Visningsmallen <em>%s</em> har tagits bort."
+
+#: SD_QA.php:1034
+#, php-format
+msgid "Display template cloned! <a href=\"%s\">Edit the new display template</a>."
+msgstr "Visningsmallen har klonats! <a href=\"%s\">Redigera nya visningsmallen</a>."
+
+#: SD_QA.php:1055
+#, php-format
+msgid "Display template created %s"
+msgstr "Visningsmall skapad %s"
+
+#: SD_QA.php:1063
+#, php-format
+msgid "Display template created! <a href=\"%s\">Edit the display template</a>."
+msgstr "En visningsmall har skapats! <a href=\"%s\">Redigera visningsmallen</a>."
+
+#: SD_QA.php:264
+msgid "Display templates"
+msgstr "Visningsmallar"
+
+#: SD_QA.php:508
+#: SD_QA.php:800
+#: SD_QA.php:1115
+msgid "Do nothing"
+msgstr "Gör inget"
+
+#: SD_QA.php:4373
+msgid "E-mail address"
+msgstr "Epostadress"
+
+#: SD_QA.php:1306
+msgid "E-mail subject"
+msgstr "Mailets ämne"
+
+#: SD_QA.php:1314
+msgid "E-mail text"
+msgstr "Mailets text"
+
+#: SD_QA.php:1087
+msgid "Edit"
+msgstr "Redigera"
+
+#: SD_QA.php:319
+msgid "Edit display template"
+msgstr "Redigera visningsmallen"
+
+#: SD_QA.php:271
+#: SD_QA.php:455
+#: SD_QA.php:459
+msgid "Edit session"
+msgstr "Redigera session"
+
+#: SD_QA.php:1101
+msgid "Edit the display template"
+msgstr "Redigera visningsmallen"
+
+#: SD_QA.php:456
+msgid "Edit the session"
+msgstr "Redigera sessionen"
+
+#: SD_QA.php:326
+#, php-format
+msgid "Editing display template: %s"
+msgstr "Redigerar visningsmallen: %s"
+
+#: SD_QA.php:278
+#, php-format
+msgid "Editing session: %s"
+msgstr "Redigerar sessionen: %s"
+
+#: SD_QA.php:828
+msgid "Email"
+msgstr "Epost"
+
+#: SD_QA.php:1380
+msgid "Email template"
+msgstr "Epostmall"
+
+#: SD_QA.php:4360
+msgid "Error"
+msgstr "Fel"
+
+#: SD_QA.php:1234
+msgid "Extra CSS styling."
+msgstr "Extra CSS-stil."
+
+#: SD_QA.php:1702
+msgid "Filter type"
+msgstr "Filtertyp"
+
+#: SD_QA.php:1285
+msgid "Footer"
+msgstr "Sidfot"
+
+#: SD_QA.php:1361
+#: SD_QA.php:3304
+msgid "General settings"
+msgstr "Allmänna inställningar"
+
+#: SD_QA.php:473
+msgid "Guest"
+msgstr "Gäst"
+
+#: SD_QA.php:731
+#, php-format
+msgid "Guest <em>%s</em> deleted."
+msgstr "Gästen <em>%s</em> har tagits bort."
+
+#: SD_QA.php:754
+msgid "Guest created!"
+msgstr "Gästen har skapats!"
+
+#: SD_QA.php:4361
+msgid "Guest invited"
+msgstr "Gästen har bjudits in"
+
+#: SD_QA.php:700
+msgid "Guest name"
+msgstr "Gästens namn"
+
+#: SD_QA.php:708
+msgid "Guest's email address"
+msgstr "Gästens epostadress"
+
+#: SD_QA.php:473
+msgid "Guests"
+msgstr "Gäster"
+
+#: SD_QA.php:1240
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: SD_QA.php:1249
+msgid "How to display a group of question + answers."
+msgstr "Hur en grupp av fråga + svar visas."
+
+#: SD_QA.php:1294
+msgid "How to display a message from a moderator or guest."
+msgstr "Hur ett meddelande från moderatorn visas."
+
+#: SD_QA.php:1273
+msgid "How to display one of the answers in a question + answers group."
+msgstr "Hur ett av svaren i en fråga+svarsgrupp visas."
+
+#: SD_QA.php:1261
+msgid "How to display the question of a question + answers group."
+msgstr "Hur frågedelen av en fråga+svarsgrupp visas."
+
+#: SD_QA.php:660
+msgid "I am really sure I want to close the session. No more changes can be made."
+msgstr "Ja är säker på att jag vill stänga sessionen. Inga fler ändringar kommer att kunna göras."
+
+#: SD_QA.php:659
+msgid "I am sure"
+msgstr "Jag är säker"
+
+#: SD_QA.php:1600
+msgid "IP address"
+msgstr "IP-adress"
+
+#: SD_QA.php:654
+msgid "If checked will keep all messages written by the moderator(s). If unchecked only the questions and answers will be saved to the permanent log."
+msgstr "För att behålla även meddelandena skrivna av moderator(er), kryssa i rutan. Annars kommer endast frågorna och svaren att sparas i loggen."
+
+#: SD_QA.php:3403
+msgid "If checked, all questions will be moderated, else they will be sent directly to the guests."
+msgstr "Markera för att moderera inkommande frågor, annars skickas de direkt till gästerna."
+
+#: SD_QA.php:3490
+msgid "In the message window, what time should be displayed for messages and question &amp; answer groups? This assumes that the display template displays times. This setting does not affect the log."
+msgstr "Vilken tid för meddelandena och frågorna och svaren ska visas i meddelanderutan (under förutsättningen att visningsmallen visar tider alls). Inställningen påverkar inte loggtiderna."
+
+#: SD_QA.php:536
+#: SD_QA.php:829
+#: SD_QA.php:1144
+msgid "Info"
+msgstr "Info"
+
+#: SD_QA.php:3424
+msgid "Invitations sent to guests do not require logging in. Easier for the guests but lowers security."
+msgstr "Inbjudningarna loggar gästerna in automatiskt. Detta är enklare för gästerna men försämrar säkerheten."
+
+#: SD_QA.php:4363
+msgid "Invite"
+msgstr "Bjud in"
+
+#: SD_QA.php:3423
+msgid "Invite logged in"
+msgstr "Bjud in som inloggad"
+
+#: SD_QA.php:653
+msgid "Keep moderator messages"
+msgstr "Behåll moderatormeddelanden"
+
+#: SD_QA.php:1191
+msgid "Keyword"
+msgstr "Nyckelord"
+
+#: SD_QA.php:3500
+msgid "Latest messages first?"
+msgstr "Senaste meddelanden överst?"
+
+#: SD_QA.php:3325
+msgid "Limits"
+msgstr "Gränser"
+
+#: SD_QA.php:3477
+msgid "Links in answers"
+msgstr "Länkar i svar"
+
+#: SD_QA.php:3483
+msgid "Links in questions"
+msgstr "Länkar i frågor"
+
+#: SD_QA.php:4364
+msgid "Loading Q&amp;A..."
+msgstr "Laddar Frågor&amp;Svar..."
+
+#: SD_QA.php:995
+msgid "Log"
+msgstr "Logg"
+
+#: SD_QA.php:4365
+msgid "Login"
+msgstr "Logga in"
+
+#: SD_QA.php:4366
+msgid "Login failed"
+msgstr "Inloggning misslyckades"
+
+#: SD_QA.php:283
+#: SD_QA.php:447
+#: SD_QA.php:471
+#, php-format
+msgid "Manage guests"
+msgstr "Hantera gästerna"
+
+#: SD_QA.php:290
+#, php-format
+msgid "Managing guests for session: %s"
+msgstr "Hanterar gästerna för sessionen: %s"
+
+#: SD_QA.php:3507
+msgid "Mark to allow the users to ask their questions in a specific tab. Unmark to allow the users to ask their questions underneath the messages panel."
+msgstr "Markera för att tillåta besökarna att ställa sina frågor i en separat flik. Avmarkera för att tillåta besökarna att ställa sina frågor under meddelandefliken."
+
+#: SD_QA.php:3472
+msgid "Maximum allowable length of a question."
+msgstr "Maxlängd på frågor"
+
+#: SD_QA.php:3471
+msgid "Maximum question length"
+msgstr "Maxlängd på frågor"
+
+#: SD_QA.php:898
+#: SD_QA.php:1293
+msgid "Message"
+msgstr "Meddelande"
+
+#: SD_QA.php:3489
+msgid "Message timestamp"
+msgstr "Meddelandetid"
+
+#: SD_QA.php:872
+#: SD_QA.php:4367
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: SD_QA.php:1369
+msgid "Messages tab"
+msgstr "Meddelandeflik"
+
+#: SD_QA.php:3440
+msgid "Minimum allowable length of a message author."
+msgstr "Kortaste tillåtna längd på meddelandets författare."
+
+#: SD_QA.php:3448
+msgid "Minimum allowable length of a message."
+msgstr "Kortaste tillåtna längd på ett meddelande."
+
+#: SD_QA.php:3456
+msgid "Minimum allowable length of a question's author."
+msgstr "Kortaste tillåtna längd på frågeställarens namn."
+
+#: SD_QA.php:3464
+msgid "Minimum allowable length of a question."
+msgstr "Kortaste tillåtna längd på en fråga."
+
+#: SD_QA.php:3432
+msgid "Minimum allowable length of an answer."
+msgstr "Kortaste tillåtna längd på ett svar."
+
+#: SD_QA.php:3431
+msgid "Minimum answer length"
+msgstr "Minimumlängd för svar"
+
+#: SD_QA.php:3439
+msgid "Minimum message author length"
+msgstr "Minimumlängd för meddelandeneförfattare"
+
+#: SD_QA.php:3447
+msgid "Minimum message length"
+msgstr "Minimumlängd på meddelanden"
+
+#: SD_QA.php:3455
+msgid "Minimum question author length"
+msgstr "Minimumlängd på frågeställarnamn"
+
+#: SD_QA.php:3463
+msgid "Minimum question length"
+msgstr "Minimumlängd för frågor"
+
+#: SD_QA.php:295
+#: SD_QA.php:420
+#: SD_QA.php:424
+msgid "Moderate"
+msgstr "Moderera"
+
+#: SD_QA.php:421
+msgid "Moderate the questions for this session"
+msgstr "Moderera frågor för den här sessionen"
+
+#: SD_QA.php:3402
+msgid "Moderated"
+msgstr "Modererat"
+
+#: SD_QA.php:302
+#, php-format
+msgid "Moderating: %s"
+msgstr "Modererar: %s"
+
+#: SD_QA.php:1629
+msgid "Moderation choices"
+msgstr "Modereringsalternativ"
+
+#: SD_QA.php:1638
+msgid "Moderation tools"
+msgstr "Modereringsverktyg"
+
+#: SD_QA.php:376
+#: SD_QA.php:891
+#: SD_QA.php:4368
+msgid "Moderator"
+msgstr "Moderator"
+
+#: SD_QA.php:827
+#: SD_QA.php:890
+#: SD_QA.php:1212
+#: SD_QA.php:1768
+#: SD_QA.php:3021
+#: SD_QA.php:3390
+msgid "Name"
+msgstr "Namn"
+
+#: SD_QA.php:3494
+msgid "No change - use whatever is the default"
+msgstr "Ingen förändring - använd den tiden som är standard"
+
+#: SD_QA.php:764
+msgid "No guests found."
+msgstr "Inga gäster hittades"
+
+#: SD_QA.php:393
+msgid "No sessions found."
+msgstr "Inga sessioner hittades."
+
+#: SD_QA.php:4369
+msgid "OK"
+msgstr "OK"
+
+#: SD_QA.php:484
+#, php-format
+msgid "Opened: %s"
+msgstr "Öppnad: %s"
+
+#: SD_QA.php:261
+msgid "Overview"
+msgstr "Översikt"
+
+#: SD_QA.php:2156
+msgid "Please ask the moderator to configure a display template for this session."
+msgstr "Kan du be moderatorn att ställa in en visningsmall för den här sessionen?"
+
+#: SD_QA.php:4301
+msgid "Please contact the administrator: this Q&amp;A session does not have a display template."
+msgstr "Var god kontakta administratören: den här F&amp;S-sessionen har ingen visningsmall inställd."
+
+#: SD_QA.php:4370
+msgid "Please try again in a few moments."
+msgstr "Försök igen om några minuter."
+
+#: SD_QA.php:3955
+msgid "Q&A"
+msgstr "F&S"
+
+#: SD_QA.php:237
+#: SD_QA.php:238
+msgid "Q&amp;A"
+msgstr "F&amp;S"
+
+#: SD_QA.php:1248
+msgid "Q&amp;A group"
+msgstr "F&amp;S-grupp"
+
+#: SD_QA.php:1260
+#: SD_QA.php:1818
+#: SD_QA.php:2061
+#: SD_QA.php:3029
+msgid "Question"
+msgstr "Fråga"
+
+#: SD_QA.php:3493
+msgid "Question time - use the question's original time"
+msgstr "Frågetid - använd frågans ursprungstid"
+
+#: SD_QA.php:871
+msgid "Questions &amp; Answers"
+msgstr "Frågor &amp; Svar"
+
+#: SD_QA.php:1418
+msgid "Role to use Q&amp;A"
+msgstr "Roll för att använda F&amp;S"
+
+#: SD_QA.php:903
+msgid "Save message"
+msgstr "Spara meddelande"
+
+#: SD_QA.php:534
+#: SD_QA.php:826
+#: SD_QA.php:1142
+msgid "Selected"
+msgstr "Vald"
+
+#: SD_QA.php:2361
+msgid "Send in your answer"
+msgstr "Skicka in ditt svar"
+
+#: SD_QA.php:4371
+msgid "Send your question"
+msgstr "Skicka in din fråga"
+
+#: SD_QA.php:535
+msgid "Session"
+msgstr "Session"
+
+#: SD_QA.php:366
+#, php-format
+msgid "Session <em>%s</em> deleted."
+msgstr "Session <em>%s</em> har tagits bort."
+
+#: SD_QA.php:375
+#, php-format
+msgid "Session created %s"
+msgstr "Session skapad %s"
+
+#: SD_QA.php:384
+#, php-format
+msgid "Session created! <a href=\"%s\">Edit the new session</a>."
+msgstr "En session har skapats! <a href=\"%s\">Redigera sessionen</a>."
+
+#: SD_QA.php:334
+msgid "Settings"
+msgstr "Inställningar"
+
+#: SD_QA.php:642
+msgid "Shortcode"
+msgstr "Kortkommando"
+
+#: SD_QA.php:3501
+msgid "Show the latest messages first when the session is active."
+msgstr "Visa de senaste meddelandena överst när sessionen är aktiv."
+
+#: SD_QA.php:324
+msgid "Specified display template does not exist!"
+msgstr "Den angivna visningsmallen finns inte!"
+
+#: SD_QA.php:276
+#: SD_QA.php:288
+#: SD_QA.php:300
+#: SD_QA.php:312
+msgid "Specified session does not exist!"
+msgstr "Den angivna sessionen finns inte!"
+
+#: SD_QA.php:2939
+msgid "Submit your question"
+msgstr "Skicka in din fråga"
+
+#: SD_QA_Base.php:415
+msgid "Super admin"
+msgstr "Superadmin"
+
+#: SD_QA.php:938
+msgid "Tabs are reloaded every 30 seconds."
+msgstr "Flikarna laddas om var 30:e sekund."
+
+#: SD_QA.php:1769
+msgid "Text"
+msgstr "Text"
+
+#: SD_QA.php:3418
+msgid "The CSS class(es) to add to the session's &lt;div&gt;."
+msgstr "CSS-klasserna läggs till sessionens &lt;div&gt;."
+
+#: SD_QA.php:1276
+msgid "The answer text."
+msgstr "Svarstexten."
+
+#: SD_QA.php:352
+msgid "The cache directory wp-content/sd_qa_cache/ is not writable which prevents sessions from working. Create the directory and make it Wordpress writeable."
+msgstr "Det går inte att skriva till cachemappen wp/content/sd_qa_cache/. Skapa mappen och se till att Wordpress kan skriva till den."
+
+#: SD_QA.php:1224
+msgid "The complete URL to the Q&amp;A plugin."
+msgstr "Hela länken till F&amp;S-tillägget."
+
+#: SD_QA.php:1223
+msgid "The complete URL to the Wordpress installation."
+msgstr "Hela länken till Wordpressinstallationen."
+
+#: SD_QA.php:1343
+msgid "The display template has been updated!"
+msgstr "Visningsmallen har uppdaterats!"
+
+#: SD_QA.php:2134
+msgid "The e-mail address you wrote was not recognized. Are you sure you're using the correct address?"
+msgstr "Epostadressen du angav hittades inte. Är du säker på att du skrev rätt adress?"
+
+#: SD_QA.php:743
+msgid "The email address is not valid!"
+msgstr "Epostadressen känns inte igen!"
+
+#: SD_QA.php:709
+msgid "The email address is used to send out the invitation to the session."
+msgstr "Epostadressen används för att skicka ut inbjudan till sessionen."
+
+#: SD_QA.php:916
+msgid "The following messages are shown to visitors and guests. Click on a message to edit it."
+msgstr "Följande meddelanden visas för besökare och gäster. Klicka på ett meddelande för att redigera det."
+
+#: SD_QA.php:4362
+msgid "The guest has been invited. You should recieve a copy of the invitiation."
+msgstr "Gästen har bjudits in. Du bör snart få en kopia på inbjudan."
+
+#: SD_QA.php:1318
+msgid "The link to the page where the shortcode was used."
+msgstr "Länken till sidan där kortkommandot användes."
+
+#: SD_QA.php:1297
+msgid "The message text."
+msgstr "Meddelandetexten."
+
+#: SD_QA.php:1213
+msgid "The name of the display template is visible only to moderators."
+msgstr "Visningmallens namn visas endast för moderatorerna."
+
+#: SD_QA.php:701
+msgid "The name of the guest, including any necessary HTML."
+msgstr "Gästens namn, inklusive eventuell HTML."
+
+#: SD_QA.php:1296
+msgid "The name of the message author, usually the moderator."
+msgstr "Namnet på meddelandets författare, vanligtvis moderatorn."
+
+#: SD_QA.php:1275
+msgid "The name of the person who answered the question."
+msgstr "Namnet på personen som besvarade frågan."
+
+#: SD_QA.php:2995
+msgid "The name of the person who asked the question."
+msgstr "Namnet på personen som ställde frågan."
+
+#: SD_QA.php:1317
+msgid "The name of the recipient."
+msgstr "Mottagarens namn."
+
+#: SD_QA.php:3391
+msgid "The name of the session is visible only to moderators."
+msgstr "Sessionsnamnet syns endast för moderatorerna."
+
+#: SD_QA.php:3115
+#, php-format
+msgid "The person's name must be at least %s characters long!"
+msgstr "Personens namn måste innehålla minst %s tecken!"
+
+#: SD_QA.php:3120
+#, php-format
+msgid "The person's question must be at least %s characters long!"
+msgstr "Frågan måste innehålla minst %s tecken!"
+
+#: SD_QA.php:1251
+msgid "The question template (see below)."
+msgstr "Svarsmallen (se undertill)."
+
+#: SD_QA.php:2996
+msgid "The question text."
+msgstr "Frågetexten."
+
+#: SD_QA.php:602
+msgid "The session has been closed and the log has been generated!"
+msgstr "Sessionen har stängs och loggen har skapats!"
+
+#: SD_QA.php:616
+msgid "The session has been updated!"
+msgstr "Sessionen har uppdaterats!"
+
+#: SD_QA.php:4102
+#, php-format
+msgid "The session was closed %s and can no longer be edited."
+msgstr "Sessionen stängdes %s och kan inte redigeras mer."
+
+#: SD_QA.php:1411
+msgid "The settings have been updated!"
+msgstr "Inställningarna har sparats!"
+
+#: SD_QA.php:4424
+msgid "The shortcode on the page is currently displaying the log of the session. Use the button below to convert the shortcode to static HTML."
+msgstr "Kortkommandot i inlägget visar för närvarande sessionens logg. Använd knappen undertill för att konvertera kortkommandot till statisk HTML."
+
+#: SD_QA.php:1307
+msgid "The subject of the invitation email sent to guests."
+msgstr "Inbjudans ämnesrad som skickas till gästerna."
+
+#: SD_QA.php:1286
+msgid "The text displayed after all of the question groups."
+msgstr "Texten som visas längst ner."
+
+#: SD_QA.php:1241
+msgid "The text displayed before all of the question groups."
+msgstr "Texten som visas längst upp."
+
+#: SD_QA.php:1315
+msgid "The text of the invitation email sent to guests."
+msgstr "Inbjudans text som skickas till gästerna."
+
+#: SD_QA.php:1685
+msgid "There are no filters configured. All questions will be moderated."
+msgstr "Det finns inga filtrar inlagda. Alla frågor kommer att bli modererade."
+
+#: SD_QA.php:2027
+msgid "There are no questions available for you to answer. This text will be disappear as soon as new questions become available."
+msgstr "Det finns inga frågor för dig att besvara. Den här texten kommer att försvinna så fort frågor dyker upp."
+
+#: SD_QA.php:1782
+msgid "There are no questions."
+msgstr "Det finns inga frågor."
+
+#: SD_QA.php:1741
+msgid "There are no unmoderated questions."
+msgstr "Det finns inga omodererade frågor."
+
+#: SD_QA.php:3949
+msgid "This is your invitation to join a question and answer session as a guest. The moderator should previously have contacted you about your Q&A session."
+msgstr "Det här är din inbjudan till en frågor & svar-session som gäst. Moderatorn bör ha kontaktat dig tidigare angående F&S-sessionen."
+
+#: SD_QA.php:3952
+msgid "To answer a question, click on it and type in your answer. The question will then disappear from your list of unanswered questions and reappear in the message window."
+msgstr "För att besvara en fråga, klicka på den och skriv in ditt svar. Frågan kommer sedan att försvinna från listan över obesvarade frågor och dyka upp igen i meddelandefönstret."
+
+#: SD_QA.php:4372
+msgid "To begin answering questions you need to login using your email address."
+msgstr "För att börja besvara frågor krävs att du loggar in med din epostadress."
+
+#: SD_QA.php:644
+#, php-format
+msgid "To include this session on a page, use the shortcode: %s"
+msgstr "För att visa sessionen på ensida, använd kortkommandot: %s"
+
+#: SD_QA.php:3950
+msgid "To join the session, use the following link: <a href=\"#url#\">#url#</a>"
+msgstr "För att ansluta till sessionen, använd följande länk: <a href=\"#url#\">#url#</a>"
+
+#: SD_QA.php:1810
+msgid "Unanswered"
+msgstr "Obesvarat"
+
+#: SD_QA.php:337
+msgid "Uninstall"
+msgstr "Avinstallera"
+
+#: SD_QA.php:870
+msgid "Unmoderated questions"
+msgstr "Omodererade frågor"
+
+#: SD_QA.php:1326
+#: SD_QA.php:1426
+#: SD_QA.php:3512
+msgid "Update settings"
+msgstr "Uppdatera inställningarna"
+
+#: SD_QA.php:1547
+msgid "Update the answer"
+msgstr "Uppdatera svaret"
+
+#: SD_QA.php:1660
+msgid "Update this question"
+msgstr "Uppdatera frågan"
+
+#: SD_QA.php:3506
+msgid "Use a seperate question tab"
+msgstr "Använd en separat frågeflik"
+
+#: SD_QA.php:307
+#: SD_QA.php:435
+#: SD_QA.php:439
+msgid "View log"
+msgstr "Visa loggen"
+
+#: SD_QA.php:436
+msgid "View the log for this closed session"
+msgstr "Visa loggen för den stängda sessionen"
+
+#: SD_QA.php:314
+#, php-format
+msgid "Viewing log for: %s"
+msgstr "Visar loggen för: %s"
+
+#: SD_QA.php:2026
+#, php-format
+msgid "Welcome %s"
+msgstr "Välkommen %s"
+
+#: SD_QA.php:1419
+msgid "What is the minimum use role needed to access the Q&amp;A administration interface?"
+msgstr "Vilken roll krävs för att administrera F&amp;S?"
+
+#: SD_QA.php:1221
+msgid "Which CSS files to load, if any."
+msgstr "Vilka CSS filer som laddas automatiskt."
+
+#: SD_QA.php:3409
+msgid "Which display template to use."
+msgstr "Vilken visningsmall ska användas."
+
+#: SD_QA.php:506
+#: SD_QA.php:798
+#: SD_QA.php:1113
+msgid "With the selected rows"
+msgstr "Med valda rader"
+
+#: SD_QA.php:4411
+msgid "Yes, I am sure"
+msgstr "Ja, jag är säker"
+
+#: SD_QA.php:3945
+#, php-format
+msgid "You are invited to a question and answer session at %s"
+msgstr "Du är härmed inbjuden till en fråge och svar-session hos %s"
+
+#: SD_QA.php:1388
+#, php-format
+msgid "You may use all the format characters that %sPHP's date() function%s uses. Enclose each character in a pair of hashes and Q&amp;A should automatically replace them with the correct value."
+msgstr "Tillägget tar emot alla formattecken som %sPHPs date()-funktion%s använder. Se bara till att omsluta varje tecken i ett par grindar och F&amp;S kommer automatiskt att ersätta dem med rätt värde."
+
+#: SD_QA.php:1887
+#: SD_QA.php:2170
+#, php-format
+msgid "Your answer must be at least %s characters long."
+msgstr "Ditt svar måste innehålla minst %s tecken."
+
+#: SD_QA.php:1843
+#, php-format
+msgid "Your message must be at least %s characters long!"
+msgstr "Ditt meddelande måste innehålla minst %s tecken!"
+
+#: SD_QA.php:2933
+msgid "Your name"
+msgstr "Ditt namn"
+
+#: SD_QA.php:1838
+#: SD_QA.php:3162
+#, php-format
+msgid "Your name must be at least %s characters long!"
+msgstr "Ditt namn måste innehålla minst %s tecken!"
+
+#: SD_QA.php:2936
+msgid "Your question"
+msgstr "Din fråga"
+
+#: SD_QA.php:4374
+msgid "Your question has been sent to the moderators."
+msgstr "Din fråga har skickats till moderatorerna."
+
+#: SD_QA.php:3175
+#, php-format
+msgid "Your question is too long! You may write at most %s characters. You tried to send %s characters."
+msgstr "Din fråga är alldeles för lång! Du får använda max %s tecken, men du försökte med %s."
+
+#: SD_QA.php:3168
+#, php-format
+msgid "Your question must be at least %s characters long!"
+msgstr "Din fråga måste innehålla minst %s tecken!"
+
+#: SD_QA.php:1805
+msgid "answers"
+msgstr "svarar"
+
+#: SD_QA.php:1812
+msgid "asks"
+msgstr "frågar"
+
+#~ msgid "There are no answers yet."
+#~ msgstr "Det finns inga svar än."
+
+#~ msgid "New questions"
+#~ msgstr "Nya frågor"
+
+#~ msgid "Keep all of the moderator messages?"
+#~ msgstr "Behåll moderatorns meddelanden?"
+
+#~ msgid "Load the plugin's CSS?"
+#~ msgstr "Ladda tilläggets egna CSS?"
+
+#~ msgid "Uncheck to use only your own custom CSS."
+#~ msgstr "Avmarkera för att använda endast din egen CSS."
+
+#~ msgid "Ban actions"
+#~ msgstr "Modereringsåtgärder"
+
+#~ msgid "The default display template cannot be deleted!"
+#~ msgstr "Standardvisningsmallen får inte tas bort."
+
+#~ msgid "Create a new Session"
+#~ msgstr "Skapa en ny session"
+
+#~ msgid "Messages window"
+#~ msgstr "Meddelandefönster"
+
+#~ msgid "Your name must be at least 5 characters long."
+#~ msgstr "Ditt namn måste vara minst 5 tecken!"
+
+#~ msgid "%s columns, %s mm per row"
+#~ msgstr "%s kolumner, %s mm per rad"
+
+#~ msgid "%s participants."
+#~ msgstr "%s deltagare."
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "-"
+#~ msgstr "-"
+
+#~ msgid ""
+#~ "<em>autorefresh</em>: Use javascript to automatically refresh the agenda."
+#~ msgstr ""
+#~ "<em>autorefresh</em>: Använd javascript för att automatiskt läsa om "
+#~ "agendan."
+
+#~ msgid ""
+#~ "<em>autorefresh</em>: Use javascript to automatically refresh the item."
+#~ msgstr ""
+#~ "<em>autorefresh</em>: Använd javascript för att automatiskt läsa om "
+#~ "agendapunkten."
+
+#~ msgid "<em>display_format_id</em>: Optional ID of display format to use."
+#~ msgstr ""
+#~ "<em>display_format_id</em>: Ifall ett annat visningsformat ska användas, "
+#~ "ange dess ID."
+
+#~ msgid "<em>display_id</em>: ID of template to use as display."
+#~ msgstr "<em>display_id</em>: Visningsmallens ID att använda."
+
+#~ msgid "<em>id</em>: The ID of the agenda to be displayed."
+#~ msgstr "<em>id</em>: ID-numret för agendan som ska visas."
+
+#~ msgid "<em>id</em>: The ID of the agenda to use."
+#~ msgstr "<em>id</em>: ID-numret för agendan som kommer att användas."
+
+#~ msgid "<em>link</em>: Enable linking of the agenda item."
+#~ msgstr "<em>link</em>: Tillåt länkning av agendapunkten."
+
+#~ msgid "<em>link</em>: Enable links of those agenda items that have links."
+#~ msgstr ""
+#~ "<em>link</em>: Tillåt att de agendapunkterna som har länkar visas som "
+#~ "länkar."
+
+#~ msgid "<em>list_id</em>: ID of list to display."
+#~ msgstr "<em>list_id</em>: Visningsmallens ID-nummer."
+
+#~ msgid "<em>list_sort_id</em>: Optional ID of list sort to use."
+#~ msgstr ""
+#~ "<em>list_sort_id</em>: Ska en annan listsortering användas, ange dess ID."
+
+#~ msgid "<em>number</em>: Display the number of the item before the text."
+#~ msgstr "<em>number</em>: Visa punktens nummer innan texten."
+
+#~ msgid "<em>text</em>: Display the agenda item text."
+#~ msgstr "<em>text</em>: Visa agendapunktens text."
+
+#~ msgid "A countdown timer of how much time the speaker has left."
+#~ msgstr "En nedräknare som visar hur mycket tid talaren har kvar."
+
+#~ msgid "A new item has been created!"
+#~ msgstr "En ny punkt har skapats!"
+
+#~ msgid ""
+#~ "A new page has been created! You can now %sedit the page%s or %sview the "
+#~ "page%s."
+#~ msgstr ""
+#~ "En ny sida har skapats! Du kan %sredigera sidan%s or %stitta på den%s."
+
+#~ msgid "Abstain"
+#~ msgstr "Avstår"
+
+#~ msgid "Action <em>%s</em> deleted."
+#~ msgstr "Händelsen <em>%s</em> har tagits bort."
+
+#~ msgid "Action cloned! <a href=\"%s\">Edit the newly-cloned action</a>."
+#~ msgstr ""
+#~ "Händelsen har klonats! <a href=\"%s\">Redigera den nya händelsen</a>."
+
+#~ msgid "Action created %s"
+#~ msgstr "Händelse skapad %s"
+
+#~ msgid "Action created! <a href=\"%s\">Edit the newly-created action</a>."
+#~ msgstr "Händelse skapad! <a href=\"%s\">Redigera nya händelsen</a>."
+
+#~ msgid "Action item <em>%s</em> deleted."
+#~ msgstr "Händelsepunkten <em>%s</em> har tagits bort."
+
+#~ msgid "Action on failure: <em>%s</em>"
+#~ msgstr "Händelse vid misslyckad registrering: <em>%s</em>"
+
+#~ msgid "Action on success: <em>%s</em>"
+#~ msgstr "Händelse vid lyckad registrering: <em>%s</em>"
+
+#~ msgid "Action settings"
+#~ msgstr "Händelseinställningar"
+
+#~ msgid "Actions"
+#~ msgstr "Händelser"
+
+#~ msgid "Add 30 seconds"
+#~ msgstr "Lägg till 30 sekunder"
+
+#~ msgid "Add the participant to a list"
+#~ msgstr "Lägg in deltagaren i en lista"
+
+#~ msgid "Add the participant to: <br /><em>%s</em>"
+#~ msgstr "Lägg in deltagaren i : <br /><em>%s</em>"
+
+#~ msgid "Agenda"
+#~ msgstr "Agenda"
+
+#~ msgid "Agenda <em>%s</em> deleted."
+#~ msgstr "Agendan <em>%s</em> har tagits bort."
+
+#~ msgid "Agenda created %s"
+#~ msgstr "Agenda skapad %s"
+
+#~ msgid "Agenda created! <a href=\"%s\">Edit the newly-created agenda</a>."
+#~ msgstr "Agenda skapad! <a href=\"%s\">Redigera den nya agendan</a>."
+
+#~ msgid "Agenda item"
+#~ msgstr "Agendapunkt"
+
+#~ msgid "Agenda item <em>%s</em> deleted."
+#~ msgstr "Agendapunkten <em>%s</em> har tagits bort."
+
+#~ msgid "Agenda settings"
+#~ msgstr "Agendainställningar"
+
+#~ msgid "Agendas"
+#~ msgstr "Agendor"
+
+#~ msgid "Ajax submit"
+#~ msgstr "Skicka via AJAX"
+
+#~ msgid "All participants"
+#~ msgstr "Alla deltagare"
+
+#~ msgid "All the participants in the list will be printed."
+#~ msgstr "Alla deltagare i listan kommer att skrivas ut."
+
+#~ msgid "Amount of blocks to create"
+#~ msgstr "Antal rutor att skapa"
+
+#~ msgid "Anonymous"
+#~ msgstr "Anonym"
+
+#~ msgid "Apply from the above select box"
+#~ msgstr "Verkställ med deltagarna från rutan övrest"
+
+#~ msgid "Apply from the checkboxes below"
+#~ msgstr "Verkställ med deltagarna från rutorna undertill"
+
+#~ msgid "Ascending"
+#~ msgstr "Stigande"
+
+#~ msgid "Automatically refresh"
+#~ msgstr "Ladda om automatiskt"
+
+#~ msgid "Back to the action editor"
+#~ msgstr "Tillbaka till händelseredigeraren"
+
+#~ msgid "Back to the agenda editor"
+#~ msgstr "Tillbaka till agendaredigeraren"
+
+#~ msgid "Back to the template editor"
+#~ msgstr "Tillbaka till mallredigeraren"
+
+#~ msgid "Barcode: %s"
+#~ msgstr "Streckkod: %s"
+
+#~ msgid "Begin registering votes"
+#~ msgstr "Påbörja röstningen"
+
+#~ msgid ""
+#~ "Below is a table with two columns. In the left column there is a keyword "
+#~ "with a corresponding user field in the right column."
+#~ msgstr ""
+#~ "Undertill finns en tabell med två kolumner. I vänstra kolumner finns ett "
+#~ "nyckelord som är en förkortning för deltagarfältet som finns i respektive "
+#~ "högra kolumn."
+
+#~ msgid "Blocks"
+#~ msgstr "Rutor"
+
+#~ msgid ""
+#~ "CSS color to fade to when the input is disabled. Default is <em>#999</em>."
+#~ msgstr ""
+#~ "CSS-färg att byta till om inmatningen slutar fungera. Standard är "
+#~ "<em>#999</em>."
+
+#~ msgid "Calculate the electoral register"
+#~ msgstr "Reräkna röstlängden"
+
+#~ msgid "Cancel import"
+#~ msgstr "Avbryt import"
+
+#~ msgid "Center"
+#~ msgstr "Mitten"
+
+#~ msgid "Choice"
+#~ msgstr "Alternativ"
+
+#~ msgid "Choice list"
+#~ msgstr "Lista över alternativ"
+
+#~ msgid "Clone of %s"
+#~ msgstr "Klon av %s"
+
+#~ msgid "Combined participants"
+#~ msgstr "Kombinerade deltagare"
+
+#~ msgid "Copy"
+#~ msgstr "Kopiera"
+
+#~ msgid "Copy participants"
+#~ msgstr "Kopiera deltagare"
+
+#~ msgid "Copying participants from: %s"
+#~ msgstr "Kopierar deltagarna från: %s"
+
+#~ msgid "Create a new action"
+#~ msgstr "Skapa en ny händelse"
+
+#~ msgid "Create a new agenda"
+#~ msgstr "Skapa en ny agenda"
+
+#~ msgid "Create a new display"
+#~ msgstr "Skapa en ny visningsmall"
+
+#~ msgid "Create a new item"
+#~ msgstr "Skapa en ny agendapunkt"
+
+#~ msgid "Create a new list sort"
+#~ msgstr "Skapa en ny listsortering"
+
+#~ msgid "Create a new printing template"
+#~ msgstr "Skapa en ny utskriftsmall"
+
+#~ msgid "Create a new registration"
+#~ msgstr "Skapa en ny registrering"
+
+#~ msgid "Create a new speaker display"
+#~ msgstr "Skapa en ny talarvisningsmall"
+
+#~ msgid "Create a new speaker list"
+#~ msgstr "Skapa en ny talarlista"
+
+#~ msgid "Create a new template from the above type"
+#~ msgstr "Skapa en ny mall med ovanstående"
+
+#~ msgid "Create new blocks"
+#~ msgstr "Skapa nya rutor"
+
+#~ msgid "Create new item(s)"
+#~ msgstr "Skapa nya agendapunkt(er)"
+
+#~ msgid "Create shortcode"
+#~ msgstr "Skapa kortkommando"
+
+#~ msgid "Creates a new page with this shortcode as the only content."
+#~ msgstr "Skapar en ny sida med det här kortkommandot som enda innehåll."
+
+#~ msgid "Current speaker"
+#~ msgstr "Nuvarande talare"
+
+#~ msgid "Default speaker time"
+#~ msgstr "Standardtid för talare"
+
+#~ msgid "Descending"
+#~ msgstr "Fallande"
+
+#~ msgid "Destination lists"
+#~ msgstr "Mål-listor"
+
+#~ msgid "Disabled color"
+#~ msgstr "Avaktiveringsfärg"
+
+#~ msgid "Display <em>%s</em> deleted."
+#~ msgstr "Visningsmall <em>%s</em> har tagits bort."
+
+#~ msgid "Display cloned! <a href=\"%s\">Edit the newly-cloned display</a>."
+#~ msgstr ""
+#~ "Visningsmallen har klonats! <a href=\"%s\">Redigera den nya "
+#~ "visningsmallen</a>."
+
+#~ msgid "Display created %s"
+#~ msgstr "Visningsmall skapad %s"
+
+#~ msgid "Display created! <a href=\"%s\">Edit the newly-created display</a>."
+#~ msgstr ""
+#~ "Visningsmallen har skapats! <a href=\"%s\">Redigera den nya "
+#~ "visningsmallen</a>."
+
+#~ msgid "Display format override"
+#~ msgstr "Annat visningsformat"
+
+#~ msgid "Display format:"
+#~ msgstr "Visningsformat:"
+
+#~ msgid "Displays"
+#~ msgstr "Visningsmallar"
+
+#~ msgid ""
+#~ "Displays the current agenda item text and or link. If both text and link "
+#~ "are selected, the text will be linked."
+#~ msgstr ""
+#~ "Visa den nuvarande agendapunktens text eller länk. Om både texten och "
+#~ "länken ska visas, kommer texten att länkas."
+
+#~ msgid "Do not show a list"
+#~ msgstr "Visa ingen lista"
+
+#~ msgid "Do not use a PDF template"
+#~ msgstr "Använd inte någon PDFmall"
+
+#~ msgid "Each row of text becomes a new item."
+#~ msgstr "Varje textrad blir en ny agendapunkt."
+
+#~ msgid "Edit agenda"
+#~ msgstr "Redigera agenda"
+
+#~ msgid "Edit field"
+#~ msgstr "Redigera fält"
+
+#~ msgid "Edit item"
+#~ msgstr "Redigera punkt"
+
+#~ msgid "Edit list sort"
+#~ msgstr "Redigera listsortering"
+
+#~ msgid "Edit this agenda"
+#~ msgstr "Redigera agenda"
+
+#~ msgid "Edit this field"
+#~ msgstr "Redigera fältet"
+
+#~ msgid "Edit this list"
+#~ msgstr "Redigera listan"
+
+#~ msgid "Edit this list sort"
+#~ msgstr "Redigera listsorteringen"
+
+#~ msgid "Editing action item: %s (%s)"
+#~ msgstr "Redigerar händelsepunkt: %s (%s)"
+
+#~ msgid "Editing agenda: %s"
+#~ msgstr "Redigerar agenda: %s"
+
+#~ msgid "Editing block field: %s"
+#~ msgstr "Redigerar rutfält: %s"
+
+#~ msgid "Editing display: %s"
+#~ msgstr "Redigerar visningen: %s"
+
+#~ msgid "Editing list sort: %s"
+#~ msgstr "Redigerar listsorteringen: %s"
+
+#~ msgid "Editing list: %s"
+#~ msgstr "Redigerar listan: %s"
+
+#~ msgid "Editing participant: %s"
+#~ msgstr "Redigerar deltagaren: %s"
+
+#~ msgid "Editing printing template: %s"
+#~ msgstr "Redigerar utskriftsmallen: %s"
+
+#~ msgid "Editing registration: %s"
+#~ msgstr "Redigerar registreringen: %s"
+
+#~ msgid "Editing shortcodes for the speaker list of agenda: %s"
+#~ msgstr "Redigerar kortkommandot för talarlistan som tillhör agendan: %s"
+
+#~ msgid "Editing speaker display: %s"
+#~ msgstr "Redigerar talarvisningsmallen: %s"
+
+#~ msgid "Editing speaker list for agenda: %s"
+#~ msgstr "Redigerar talarlistan för agendan: %s"
+
+#~ msgid "Election - %s: %s"
+#~ msgstr "Votering - %s: %s"
+
+#~ msgid "Election - %s: choice %s"
+#~ msgstr "Votering - %s: alternativet %s"
+
+#~ msgid "Election cloned! <a href=\"%s\">Edit the newly-cloned election</a>."
+#~ msgstr ""
+#~ "Voteringen har klonats! <a href=\"%s\">Redigera den nya voteringen</a>."
+
+#~ msgid "Election results graph"
+#~ msgstr "Voteringsgrafen"
+
+#~ msgid "Election statistics"
+#~ msgstr "Voteringsstatistik"
+
+#~ msgid "Election type"
+#~ msgstr "Voteringstyp"
+
+#~ msgid "Elections"
+#~ msgstr "Voteringar"
+
+#~ msgid "Electoral register"
+#~ msgstr "Röstlängd"
+
+#~ msgid "Electoral register for: %s"
+#~ msgstr "Röstlängd för: %s"
+
+#~ msgid "Eligible voters"
+#~ msgstr "Röstberättigade"
+
+#~ msgid "Empty"
+#~ msgstr "Töm"
+
+#~ msgid "Enter delay"
+#~ msgstr "Enter paus"
+
+#~ msgid "Exclude the participants that are in the selected lists."
+#~ msgstr "Exkludera de deltagarna som finns i de valda listorna."
+
+#~ msgid "Excluded lists"
+#~ msgstr "Exkluderade listor"
+
+#~ msgid "Failure action"
+#~ msgstr "Händelse vid misslyckande"
+
+#~ msgid "Field"
+#~ msgstr "Fält"
+
+#~ msgid "Field to print"
+#~ msgstr "Fält att skriva ut"
+
+#~ msgid "Fields"
+#~ msgstr "Fält"
+
+#~ msgid "Finish registering votes"
+#~ msgstr "Avsluta röstsamlandet"
+
+#~ msgid "Fire this action if registration fails."
+#~ msgstr "Anropa den här händelsen om registreringen misslyckas"
+
+#~ msgid "Fire this action if registration succeeds."
+#~ msgstr "Anropa den här händelsen ifall registreringen lyckas"
+
+#~ msgid "First vote"
+#~ msgstr "Första rösten"
+
+#~ msgid "Font"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Font size"
+#~ msgstr "Typsnittstorlek"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "Four columns, 10 mm per row"
+#~ msgstr "Fyra kolumner, 10 mm per rad"
+
+#~ msgid "Four columns, 15 mm per row"
+#~ msgstr "Fyra kolumner, 15 mm per rad"
+
+#~ msgid "Four columns, 20 mm per row"
+#~ msgstr "Fyra kolumner, 20 mm per rad"
+
+#~ msgid "Four columns, 5 mm per row"
+#~ msgstr "Fyra kolumner, 5 mm per rad"
+
+#~ msgid "Generated shortcode"
+#~ msgstr "Skapade kortkommandot"
+
+#~ msgid "Graph"
+#~ msgstr "Graf"
+
+#~ msgid "Group"
+#~ msgstr "Grupp"
+
+#~ msgid "Group field"
+#~ msgstr "Gruppfält"
+
+#~ msgid "Have voted"
+#~ msgstr "Har röstat"
+
+#~ msgid "How many in the latest list to display."
+#~ msgstr "Hur många från senaste listan att visa."
+
+#~ msgid ""
+#~ "How many milliseconds to wait after a participant is successfully "
+#~ "entered. Default is 1000."
+#~ msgstr ""
+#~ "Hur många millisekunder att vänta efter att en deltagare har "
+#~ "registrerats. Standard är 1000."
+
+#~ msgid ""
+#~ "How many milliseconds to wait between input list refreshes. Default is "
+#~ "5000, minimum is 500."
+#~ msgstr ""
+#~ "Hur många millisekunder att vänta mellan omladdningar av deltagarlistan. "
+#~ "Standard är 5000, minimum är 500."
+
+#~ msgid ""
+#~ "How many milliseconds to wait between latest list refreshes. Default is "
+#~ "5000, minimum is 500."
+#~ msgstr ""
+#~ "Hur många millisekunder att vänta mellan omladdningar av senaste listan. "
+#~ "Standard är 5000, minimum är 500."
+
+#~ msgid "How to display the participants in the list."
+#~ msgstr "Hur deltagarna visas."
+
+#~ msgid "How to sort this list."
+#~ msgstr "Listans sortering."
+
+#~ msgid "I am sure I want to finish registering votes"
+#~ msgstr "Jag är säker på att jag vill avsluta röstregistreringen"
+
+#~ msgid "Ignore"
+#~ msgstr "Ignorera"
+
+#~ msgid "Import"
+#~ msgstr "Importera"
+
+#~ msgid ""
+#~ "Import comlete. %s users created. %s users updated. %s users ignored."
+#~ msgstr ""
+#~ "Import avslutad. %s användare har skapats. %s användare har uppdateras. "
+#~ "%s användare har ignorerats."
+
+#~ msgid "Include the participants that are in the selected lists."
+#~ msgstr "Inkludera deltagarna som finns i valda listorna."
+
+#~ msgid "Included lists"
+#~ msgstr "Inkluderade listor"
+
+#~ msgid "Input list refresh"
+#~ msgstr "Omladdningstid för käll-listan"
+
+#~ msgid "Items"
+#~ msgstr "Punkter"
+
+#~ msgid "Justification"
+#~ msgstr "Textställning"
+
+#~ msgid "Justificiation: %s"
+#~ msgstr "Textställning: %s"
+
+#~ msgid "Justify"
+#~ msgstr "Jämn"
+
+#~ msgid "Keywords"
+#~ msgstr "Nyckelord"
+
+#~ msgid "Landscape"
+#~ msgstr "Landskap"
+
+#~ msgid "Last vote"
+#~ msgstr "Sista rösten"
+
+#~ msgid "Latest count"
+#~ msgstr "Antal att visa"
+
+#~ msgid "Latest list refresh"
+#~ msgstr "Omladdningstid för listan över senaste registreringar"
+
+#~ msgid "Left"
+#~ msgstr "Vänster"
+
+#~ msgid "Link"
+#~ msgstr "Länk"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "List %s does not exist anymore!"
+#~ msgstr "Listan %s finns inte längre!"
+
+#~ msgid "List <em>%s</em> emptied."
+#~ msgstr "Listan <em>%s</em> har tömts."
+
+#~ msgid "List cloned! <a href=\"%s\">Edit the newly-cloned list</a>."
+#~ msgstr "Listan har klonats! <a href=\"%s\">Redigera den nya listan</a>."
+
+#~ msgid "List created! <a href=\"%s\">Edit the newly-created list</a>."
+#~ msgstr "Lista skapad! <a href=\"%s\">Redigera den nya listan</a>."
+
+#~ msgid "List settings"
+#~ msgstr "Listinställningar"
+
+#~ msgid "List sort"
+#~ msgstr "Listsortering"
+
+#~ msgid "List sort <em>%s</em> deleted."
+#~ msgstr "Listsortering <em>%s</em> borttagen."
+
+#~ msgid "List sort created %s"
+#~ msgstr "Listsortering skapad %s"
+
+#~ msgid ""
+#~ "List sort created! <a href=\"%s\">Edit the newly-created list sort</a>."
+#~ msgstr ""
+#~ "Listsortering skapad! <a href=\"%s\">Redigera den nya listsorteringen</a>."
+
+#~ msgid "List sort settings"
+#~ msgstr "Inställningar för listsorteringen"
+
+#~ msgid "List sorts"
+#~ msgstr "Listsorteringar"
+
+#~ msgid "List to print"
+#~ msgstr "Lista att skriva ut"
+
+#~ msgid "List to use as source"
+#~ msgstr "Lista att använda som källa"
+
+#~ msgid "List: <em>%s</em>"
+#~ msgstr "Lista: <em>%s</em>"
+
+#~ msgid "Lists"
+#~ msgstr "Listor"
+
+#~ msgid "Make a shortcode for this display"
+#~ msgstr "Gör ett kortkommando  för den här talarvisningsmallen"
+
+#~ msgid "Manual"
+#~ msgstr "Manuell"
+
+#~ msgid "May vote"
+#~ msgstr "Får rösta"
+
+#~ msgid "Meaning"
+#~ msgstr "Betyder"
+
+#~ msgid "Meeting Tool"
+#~ msgstr "Mötesverktyget"
+
+#~ msgid "Millimeters"
+#~ msgstr "Millimeter"
+
+#~ msgid "Multiple lists can be selected."
+#~ msgstr "Flera listor får väljas."
+
+#~ msgid "Name / description of the choice."
+#~ msgstr "Namn / beskrivning av valet."
+
+#~ msgid "Name badge, vertical, 77mm x 112mm, 4 per page"
+#~ msgstr "Namnskylt, porträtt, 77mm x 112mm, fyra per sida"
+
+#~ msgid "Names of new items"
+#~ msgstr "Namnen på de nya agendapunkterna"
+
+#~ msgid "New items have been created!"
+#~ msgstr "Nya punkter har skapats!"
+
+#~ msgid "No display formats found!"
+#~ msgstr "Det finns inga visningsformat inlagda."
+
+#~ msgid ""
+#~ "No participants found! Perhaps you want to import new participants from a "
+#~ "spreadsheet?"
+#~ msgstr ""
+#~ "Det finns inga deltagare inlagda. Kanske vill du importera nya deltagare "
+#~ "från ett kalkylblad?"
+
+#~ msgid "No printing templates found."
+#~ msgstr "Inga utskriftsmallar finns inlagda."
+
+#~ msgid "No registrations found!"
+#~ msgstr "Inga registreringar finns inlagda."
+
+#~ msgid "No speaker displays found."
+#~ msgstr "Inga talarvisningsmallar finns inlagda."
+
+#~ msgid "No speaker lists found."
+#~ msgstr "Inga talarlistor finns inlagda."
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid ""
+#~ "Number of participants that are combined from any included and excluded "
+#~ "lists."
+#~ msgstr ""
+#~ "Antalet deltagare som har inkluderats respektive exkluderats från olika "
+#~ "listor."
+
+#~ msgid "One of the columns needs to have the text: id"
+#~ msgstr "En av kolumnerna måste vara: id"
+
+#~ msgid ""
+#~ "Only manually added participants are counted, not participants "
+#~ "automatically combined from included lists."
+#~ msgstr ""
+#~ "Endast manuellt tillagda deltagare räknas, inte de som automatiskt förs "
+#~ "in från inkluderade listor."
+
+#~ msgid "Open"
+#~ msgstr "Öppen"
+
+#~ msgid "Options"
+#~ msgstr "Alternativ"
+
+#~ msgid "Order"
+#~ msgstr "Ordning"
+
+#~ msgid "Page creation"
+#~ msgstr "Skapa sidor"
+
+#~ msgid "Paper: %s  %s"
+#~ msgstr "Papper: %s %s"
+
+#~ msgid "Participant"
+#~ msgstr "Deltagare"
+
+#~ msgid "Participant <em>%s</em> deleted."
+#~ msgstr "Deltagaren <em>%s</em> har tagits bort."
+
+#~ msgid "Participant blocks: %s"
+#~ msgstr "Deltagar-rutor: %s"
+
+#~ msgid "Participant field"
+#~ msgstr "Deltagarfält"
+
+#~ msgid "Participants"
+#~ msgstr "Deltagare"
+
+#~ msgid ""
+#~ "Participants that have voted for this choice are put into the above list."
+#~ msgstr ""
+#~ "Deltagare som har röstat för det här alternativet sätts in i ovanstående "
+#~ "lista."
+
+#~ msgid "Pasted text from a spreadsheet."
+#~ msgstr "Inklistrad text från kalkylbladet."
+
+#~ msgid "Portrait"
+#~ msgstr "Porträtt"
+
+#~ msgid "Print"
+#~ msgstr "Skriva ut"
+
+#~ msgid "Print a list using this template"
+#~ msgstr "Skriv ut listan med mallen"
+
+#~ msgid "Print at x %s, y %s"
+#~ msgstr "Skriv ut vid x %s, y %s"
+
+#~ msgid "Print list"
+#~ msgstr "Skriv ut lista"
+
+#~ msgid "Printing"
+#~ msgstr "Utskrifter"
+
+#~ msgid ""
+#~ "Printing template cloned! <a href=\"%s\">Edit the newly-cloned printing "
+#~ "template</a>."
+#~ msgstr "Mallen har klonats! <a href=\"%s\">Redigera den nya mallen</a>."
+
+#~ msgid "Printing template created %s"
+#~ msgstr "Utskriftsmall skapad %s"
+
+#~ msgid ""
+#~ "Printing template created! <a href=\"%s\">Edit the newly-created printing "
+#~ "template</a>."
+#~ msgstr ""
+#~ "Utskriftsmall skapad! <a href=\"%s\">Redigera den nya utskriftsmallen</a>."
+
+#~ msgid "Printing using template: %s"
+#~ msgstr "Skriv ut med mallen: %s"
+
+#~ msgid "Quicksearch"
+#~ msgstr "Snabbsök"
+
+#~ msgid "Recalculate the electoral register"
+#~ msgstr "Beräknade om röstlängden"
+
+#~ msgid "Register"
+#~ msgstr "Registrera"
+
+#~ msgid "Register votes"
+#~ msgstr "Registrera röster"
+
+#~ msgid "Registered"
+#~ msgstr "Registrerad"
+
+#~ msgid "Registration"
+#~ msgstr "Registrering"
+
+#~ msgid "Registration <em>%s</em> deleted."
+#~ msgstr "Registreringen <em>%s</em> har tagits bort."
+
+#~ msgid "Registration created %s"
+#~ msgstr "Registrering skapad %s"
+
+#~ msgid ""
+#~ "Registration created! <a href=\"%s\">Edit the newly-created registration</"
+#~ "a>."
+#~ msgstr ""
+#~ "Registrering skapad! <a href=\"%s\">Redigera den nya registreringen</a>."
+
+#~ msgid "Registration settings"
+#~ msgstr "Registreringsinställningar"
+
+#~ msgid "Registrations"
+#~ msgstr "Registreringar"
+
+#~ msgid "Reload this page!"
+#~ msgstr "Ladda om sidan!"
+
+#~ msgid "Remove 30 seconds"
+#~ msgstr "Ta bort 30 sekunder"
+
+#~ msgid "Remove the participant from a list"
+#~ msgstr "Ta bort deltagaren från en lista"
+
+#~ msgid "Remove the participant from: <br /><em>%s</em>"
+#~ msgstr "Ta bort deltagaren från: <br /><em>%s</em>"
+
+#~ msgid "Right"
+#~ msgstr "Hlger"
+
+#~ msgid "Row %s does not have the same amount of columns as the first row!"
+#~ msgstr "Rad %s har inte samma antal kolumner som första raden!"
+
+#~ msgid "See table below for instructions."
+#~ msgstr "See tabellen undertill för instruktioner."
+
+#~ msgid "Select the lists to which to copy the participants."
+#~ msgstr "Markera de listorna dit deltagarna ska kopieras."
+
+#~ msgid "Select what the new item should do"
+#~ msgstr "Välj vad nya händelsepunkten ska göra"
+
+#~ msgid "Settings for %s"
+#~ msgstr "Inställningar för %s"
+
+#~ msgid "Shortcodes"
+#~ msgstr "Kortkommandon"
+
+#~ msgid "Show participants"
+#~ msgstr "Visa deltagare"
+
+#~ msgid "Show the combined participants"
+#~ msgstr "Visa de sammanlagda deltagarna"
+
+#~ msgid ""
+#~ "Show the first 10 registrations of a specified list. Can be used to show "
+#~ "the latest registrations."
+#~ msgstr ""
+#~ "Visa de första 10 registreringar i en lista. Kan användas för att visa de "
+#~ "senaste registreringar."
+
+#~ msgid "Showing participants for: %s"
+#~ msgstr "Visar deltagare för: %s"
+
+#~ msgid "Shows the current agenda as a list."
+#~ msgstr "Visa agendan som en lista."
+
+#~ msgid "Shows the selected list using this display template."
+#~ msgstr "Visa den valda listan med den här visningsmallen."
+
+#~ msgid "Shows the statistics for this election.."
+#~ msgstr "Visar statistic för voteringen."
+
+#~ msgid "Sort"
+#~ msgstr "Sortering"
+
+#~ msgid "Sort override"
+#~ msgstr "Egen sortering"
+
+#~ msgid "Sort:"
+#~ msgstr "Sortering:"
+
+#~ msgid "Speaker display"
+#~ msgstr "Talarvisningsmall"
+
+#~ msgid "Speaker display <em>%s</em> deleted."
+#~ msgstr "Talarvisningsmallen <em>%s</em> har tagits bort."
+
+#~ msgid "Speaker display created %s"
+#~ msgstr "Talarvisningsmallen skapad %s"
+
+#~ msgid ""
+#~ "Speaker display created! <a href=\"%s\">Edit the newly-created speaker "
+#~ "display</a>."
+#~ msgstr ""
+#~ "Talarvisningsmall skapad! <a href=\"%s\">Redigera den nya "
+#~ "talarvisningsmallen</a>."
+
+#~ msgid "Speaker list"
+#~ msgstr "Talarlista"
+
+#~ msgid "Speaker list <em>%s</em> deleted."
+#~ msgstr "Talarlistan <em>%s</em> har tagits bort."
+
+#~ msgid "Speaker list <em>%s</em> emptied."
+#~ msgstr "Talarlistan <em>%s</em> har tömts."
+
+#~ msgid "Speaker list and internal display"
+#~ msgstr "Talarlistan och den interna visningen"
+
+#~ msgid ""
+#~ "Speaker list created! <a href=\"%s\">Edit the newly-created speaker list</"
+#~ "a>."
+#~ msgstr "Talarlista skapad! <a href=\"%s\">Redigera den nya talarlistan</a>."
+
+#~ msgid "Speaker list for agenda: %s"
+#~ msgstr "Talarlistan för agendan: %s"
+
+#~ msgid "Speaker time"
+#~ msgstr "Talartid"
+
+#~ msgid "Speakers"
+#~ msgstr "Talare"
+
+#~ msgid "Speakers for <strong>%s</strong>"
+#~ msgstr "Talare för <strong>%s</strong>"
+
+#~ msgid "Specified action does not exist!"
+#~ msgstr "Den angivna händelsen finns inte!"
+
+#~ msgid "Specified action item does not exist!"
+#~ msgstr "Den angivna händelsepunkten finns inte!"
+
+#~ msgid "Specified agenda does not exist!"
+#~ msgstr "Den angivna agendan finns inte!"
+
+#~ msgid "Specified agenda item does not exist!"
+#~ msgstr "Den angivna agendapunkten finns inte!"
+
+#~ msgid "Specified block field does not exist!"
+#~ msgstr "Det angivna fältet för rutan finns inte!"
+
+#~ msgid "Specified display does not exist!"
+#~ msgstr "Den angivna visningen finns inte!"
+
+#~ msgid "Specified election does not have an electoral register!"
+#~ msgstr "Den angivna voteringen har ingen röstlängd!"
+
+#~ msgid "Specified list does not exist!"
+#~ msgstr "Den angivna listan finns inte!"
+
+#~ msgid "Specified list sort does not exist!"
+#~ msgstr "Den angivna listsorteringen finns inte!"
+
+#~ msgid "Specified participant does not exist!"
+#~ msgstr "Den angivna deltagaren finns inte!"
+
+#~ msgid "Specified printing template does not exist!"
+#~ msgstr "Den angivna utskriftsmallen finns inte!"
+
+#~ msgid "Specified registration does not exist!"
+#~ msgstr "Den angivna registreringen finns inte!"
+
+#~ msgid "Specified speaker display does not exist!"
+#~ msgstr "Den angivna talarvisningsmallen finns inte!"
+
+#~ msgid "Specified speaker list does not exist!"
+#~ msgstr "Den angivna talarlistan finns inte!"
+
+#~ msgid "Start"
+#~ msgstr "Starta"
+
+#~ msgid "Stop"
+#~ msgstr "Stoppa"
+
+#~ msgid "Template <em>%s</em> deleted."
+#~ msgstr "Mallen <em>%s</em> har tagits bort."
+
+#~ msgid "Text Searches"
+#~ msgstr "Textsökningar"
+
+#~ msgid "The <em>have voted</em>-list does not exist anymore."
+#~ msgstr "<em>Har röstat</em>-listan finns inte längre."
+
+#~ msgid "The <em>have voted</em>-list is empty."
+#~ msgstr "<em>Har röstat</em>-listan är tom."
+
+#~ msgid "The <em>may vote</em>-list does not exist anymore."
+#~ msgstr "<em>Får rösta</em>-listan finns inte längre."
+
+#~ msgid "The action has been updated!"
+#~ msgstr "Händelsen har uppdaterats!"
+
+#~ msgid "The action item has been updated!"
+#~ msgstr "Händelsepunkten har uppdaterats!"
+
+#~ msgid "The agenda has been updated!"
+#~ msgstr "Agendan har uppdaterats!"
+
+#~ msgid "The agenda item has been updated!"
+#~ msgstr "Agendapunkten har uppdaterats!"
+
+#~ msgid "The blocks have been updated!"
+#~ msgstr "Rutorna har uppdaterats!"
+
+#~ msgid "The choice list for <em>%s</em>, %s, does not exist anymore!"
+#~ msgstr "Alternativen för <em>%s</em>, %s, finns inte längre!"
+
+#~ msgid "The default amount of time for a reply."
+#~ msgstr "Standardtiden för ett svar."
+
+#~ msgid "The default amount of time for a speaker."
+#~ msgstr "Standardtiden för talarna."
+
+#~ msgid "The electoral register has not been calculated yet."
+#~ msgstr "Röstlängden har inte beräknats än."
+
+#~ msgid "The electoral register was calculated at %s."
+#~ msgstr "Röstlängden räknades ut %s."
+
+#~ msgid "The field has been updated!"
+#~ msgstr "Fältet har uppdaterats!"
+
+#~ msgid "The following participants are allowed to vote:"
+#~ msgstr "Följande deltagare får rösta:"
+
+#~ msgid "The following participants did not vote at all"
+#~ msgstr "Följande deltagare röstade inte alls"
+
+#~ msgid "The following participants have voted"
+#~ msgstr "Följande deltagare har röstat"
+
+#~ msgid ""
+#~ "The input list that specifies which participants are eligible voters. "
+#~ "This list should contain all the eligible voters, not just those that are "
+#~ "present."
+#~ msgstr ""
+#~ "Listan som anger vilka deltagare får rösta. Listan bör innehålla samtliga "
+#~ "röstberättigade, inte bara de som är närvarande."
+
+#~ msgid "The list has been updated!"
+#~ msgstr "Listan har uppdaterats!"
+
+#~ msgid "The list sort has been updated!"
+#~ msgstr "Listsorteringen har uppdaterats!"
+
+#~ msgid "The may vote-list does not exist!"
+#~ msgstr "Listan anger vilka som får rösta finns inte!"
+
+#~ msgid ""
+#~ "The output list in which all participants who are allowed to voted are "
+#~ "placed."
+#~ msgstr "Listan där alla deltagare som får rösta läggs."
+
+#~ msgid "The output list in which participants who have voted are placed."
+#~ msgstr "Listan där alla deltagare som har röstat läggs."
+
+#~ msgid "The participant field used for grouping does not exist anymore!"
+#~ msgstr "Fältet för grupperingen finns inte längre!"
+
+#~ msgid ""
+#~ "The participant field used for the voting order does not exist anymore!"
+#~ msgstr "Fältet för röstordningen finns inte längre!"
+
+#~ msgid "The participant has been updated!"
+#~ msgstr "Deltagaren har uppdaterats!"
+
+#~ msgid "The participant using the display format specified in the shortcode."
+#~ msgstr ""
+#~ "Deltagaren som visas med visningsformatet som anges i kortkommandot."
+
+#~ msgid "The participants have been copied to %s lists!"
+#~ msgstr "Deltagarna har kopierats till %s listor!"
+
+#~ msgid "The registration has been updated!"
+#~ msgstr "Registreringen har uppdaterats!"
+
+#~ msgid ""
+#~ "The rows can be manually sorted by dragging them up and down in the table."
+#~ msgstr "Raderna kan sorteras genom att dras upp och ner i tabellen."
+
+#~ msgid "The speaker display has been updated!"
+#~ msgstr "Talarvisningsmallen har uppdaterats!"
+
+#~ msgid "The speaker list has been updated!"
+#~ msgstr "Talarlistan har uppdaterats!"
+
+#~ msgid "The speaker list will handle speakers for the selected agenda."
+#~ msgstr "Talarlistan hanterar talarna för den valda agendan."
+
+#~ msgid "The vote count has been updated!"
+#~ msgstr "Röstantalet har uppdaterats!"
+
+#~ msgid "There are no agendas available."
+#~ msgstr "Det finns inga agendor inlagda."
+
+#~ msgid "There are no displays available."
+#~ msgstr "Det finns inga visningar inlagda."
+
+#~ msgid "There are no list sorts available."
+#~ msgstr "Det finns inga listsorteringar inlagda."
+
+#~ msgid "There are no lists available."
+#~ msgstr "Det finns inga listor inlagda."
+
+#~ msgid ""
+#~ "There were not enough voters present to fill the vote quotas for the "
+#~ "follow groups:"
+#~ msgstr ""
+#~ "Det fanns inte tillräckligt med röstberättigade närvarande för att fylla "
+#~ "röstkvoten för följande grupper:"
+
+#~ msgid "This action has no items."
+#~ msgstr "Händelsen har inga händelsepunkter."
+
+#~ msgid "This agenda has no items."
+#~ msgstr "Agendan har inga agendapunkter."
+
+#~ msgid "Three columns, 10 mm per row"
+#~ msgstr "Tre kolumner, 10 mm per rad"
+
+#~ msgid "Three columns, 15 mm per row"
+#~ msgstr "Tre kolumner, 15 mm per rad"
+
+#~ msgid "Three columns, 20 mm per row"
+#~ msgstr "Tre kolumner, 20 mm per rad"
+
+#~ msgid "Three columns, 5 mm per row"
+#~ msgstr "Tre kolumner, 5 mm per rad"
+
+#~ msgid "Time elapsed"
+#~ msgstr "Förlöpt tid"
+
+#~ msgid "Time left"
+#~ msgstr "Tid kvar"
+
+#~ msgid "Times"
+#~ msgstr "Tider"
+
+#~ msgid "Timing settings"
+#~ msgstr "Tidsinställningar"
+
+#~ msgid "Two columns, 10 mm per row"
+#~ msgstr "Två kolumner, 10 mm per rad"
+
+#~ msgid "Two columns, 15 mm per row"
+#~ msgstr "Två kolumner, 15 mm per rad"
+
+#~ msgid "Two columns, 20 mm per row"
+#~ msgstr "Två kolumner, 20 mm per rad"
+
+#~ msgid "Two columns, 5 mm per row"
+#~ msgstr "Två kolumner, 5 mm per rad"
+
+#~ msgid "Type of template"
+#~ msgstr "Malltyp"
+
+#~ msgid "Unknown"
+#~ msgstr "Okänd"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "Update agenda"
+#~ msgstr "Uppdatera agenda"
+
+#~ msgid "Update agenda item"
+#~ msgstr "Uppdatera agendapunkt"
+
+#~ msgid "Update display"
+#~ msgstr "Uppdatera visning"
+
+#~ msgid "Update display format"
+#~ msgstr "Uppdatera visningsformat"
+
+#~ msgid "Update election"
+#~ msgstr "Uppdatera votering"
+
+#~ msgid "Update field"
+#~ msgstr "Uppdatera fält"
+
+#~ msgid "Update list"
+#~ msgstr "Uppdatera lista"
+
+#~ msgid "Update list sort"
+#~ msgstr "Uppdatera listsortering"
+
+#~ msgid "Update participant"
+#~ msgstr "Uppdatera deltagare"
+
+#~ msgid "Update printing template"
+#~ msgstr "Uppdatera utskriftsmall"
+
+#~ msgid "Update registration"
+#~ msgstr "Uppdatera registrering"
+
+#~ msgid "Update speaker display settings"
+#~ msgstr "Uppdatera inställningarna för talarvisningsmallen"
+
+#~ msgid "Update speaker list settings"
+#~ msgstr "Uppdatera inställningarna för talarlistan."
+
+#~ msgid "Update the blocks"
+#~ msgstr "Uppdatera rutorna"
+
+#~ msgid "Update the vote count"
+#~ msgstr "Uppdatera mängden röster"
+
+#~ msgid "Use AJAX to submit the registration."
+#~ msgstr "Använd AJAX att skicka registreringen."
+
+#~ msgid "Use display format from the list."
+#~ msgstr "Använd listans visningsformat."
+
+#~ msgid "Use font %s at size %s"
+#~ msgstr "Använd typsnittet %s med storleken %s"
+
+#~ msgid "Use sort from the list."
+#~ msgstr "Använd listans sortering"
+
+#~ msgid ""
+#~ "Use the keywords exactly as printed in the format field above and the "
+#~ "Meeting Tool will automatically replace the keyword with the "
+#~ "corresponding participant field."
+#~ msgstr ""
+#~ "Skrivs nyckelorden precis som de står i formatfältet ovan kommer "
+#~ "Mötesverktyget att automatiskt ersätta nyckelorden med respektive "
+#~ "deltagarfält."
+
+#~ msgid "Use the list's display format"
+#~ msgstr "Använd listans visningsformat"
+
+#~ msgid "Use the selected display format instead of the list's default."
+#~ msgstr "Använd det här visningsformatet istället för listans."
+
+#~ msgid "Use the selected sort instead of the list's default."
+#~ msgstr "Använd den här sorteringen istället för listans."
+
+#~ msgid "User %s already exists! Aborting import."
+#~ msgstr "Användaren %s finns redan! Avbryter importen."
+
+#~ msgid "User interface"
+#~ msgstr "Gränssnitt"
+
+#~ msgid "User interface: <em>%s</em>"
+#~ msgstr "Gränssnitt: <em>%s</em>"
+
+#~ msgid "Vote"
+#~ msgstr "Röst"
+
+#~ msgid "Vote registration for: %s"
+#~ msgstr "Röstregistrering för: %s"
+
+#~ msgid "Voter participation"
+#~ msgstr "Röstdeltagande"
+
+#~ msgid "Voters missing"
+#~ msgstr "Röstberättigade som skapas"
+
+#~ msgid "Voters present"
+#~ msgstr "Röstberättigade som är närvarande"
+
+#~ msgid "Votes"
+#~ msgstr "Röster"
+
+#~ msgid ""
+#~ "Votes can only be registered when there are no further changes to be made "
+#~ "to the election. The button below will prevent further changes to the "
+#~ "election and allow votes to be registered."
+#~ msgstr ""
+#~ "Så fort röster börjar registreras kan man inte ändra i voteringens "
+#~ "inställningar längre. Knappen undertill låser voteringen och öppnar "
+#~ "röstregistreringen."
+
+#~ msgid "Voting order field"
+#~ msgstr "Röstordningsfältet"
+
+#~ msgid "What to do with existing users?"
+#~ msgstr "Vad vill du göra med befintliga användare?"
+
+#~ msgid "Which list to use as the source of acceptable participants."
+#~ msgstr "Listan anger vilka deltagare som får registreras."
+
+#~ msgid "Which of the participant voters are present."
+#~ msgstr "Vilka deltagare finns närvarande."
+
+#~ msgid "Which participant field specifies the participant's voting order."
+#~ msgstr "Deltagarfältet som anger deltagarens röstordning."
+
+#~ msgid "Which participant field to group participants by."
+#~ msgstr "Deltagarfältet som anger grupptillhörigheten."
+
+#~ msgid "Which registration setting to use when registering votes."
+#~ msgstr "Vilken registrering ska användas vid voteringen."
+
+#~ msgid "Width"
+#~ msgstr "Bredd"
+
+#~ msgid "Wizards"
+#~ msgstr "Lathundar"
+
+#~ msgid "X"
+#~ msgstr "X"
+
+#~ msgid "X offset"
+#~ msgstr "X-placering"
+
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Y offset"
+#~ msgstr "Y-placering"
+
+#~ msgid ""
+#~ "You can select the current item by doubleclicking the item's row. "
+#~ "Doubleclick the same item again to deselect it."
+#~ msgstr ""
+#~ "Aktuell agendapunkt kan väljas genom en dubbelklickning. Dubbelklicka på "
+#~ "samma punkt igen för att avmarkera den."
+
+#~ msgid ""
+#~ "You need to paste at least two columns for the import function to work!"
+#~ msgstr "Importfunktionen behöver minst två kolumner!"
+
+#~ msgid ""
+#~ "You need to paste at least two lines for the import function to work!"
+#~ msgstr "Importfunktionen behöver minst två rader!"
+
+#~ msgid "descending"
+#~ msgstr "fallande"
+
+#~ msgid "registered"
+#~ msgstr "registrerad"
+
+#~ msgid "Add the participant to this list"
+#~ msgstr "Lägg in deltagaren i listan"
+
+#~ msgid "Remove the participant from this list"
+#~ msgstr "Ta bort deltagaren från den här listan"
+
+#~ msgid "Display Formats"
+#~ msgstr "Visningsformat"
+
+#~ msgid "Items can be reordered by dragging them up and down."
+#~ msgstr "Punkterna kan "
+
+#~ msgid "With the selected actions"
+#~ msgstr "Med valda händelser"
+
+#~ msgid "With the selected agendas"
+#~ msgstr "Med valda agendor"
+
+#~ msgid "With the selected display formats"
+#~ msgstr "Med valda visningsformat"
+
+#~ msgid "With the selected displays"
+#~ msgstr "Med valda visningar"
+
+#~ msgid "With the selected elections"
+#~ msgstr "Med valda voteringar"
+
+#~ msgid "With the selected fields"
+#~ msgstr "Med valda fält"
+
+#~ msgid "With the selected items"
+#~ msgstr "Med valda punkter"
+
+#~ msgid "With the selected list sorts"
+#~ msgstr "Med valda listsorteringar"
+
+#~ msgid "With the selected lists"
+#~ msgstr "Med valda listor"
+
+#~ msgid "With the selected participants"
+#~ msgstr "Med valda deltagare"
+
+#~ msgid "With the selected printing templates"
+#~ msgstr "Med valda utskriftsmallar"
+
+#~ msgid "With the selected registrations"
+#~ msgstr "Med valda registreringar"

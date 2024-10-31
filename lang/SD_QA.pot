@@ -1,0 +1,987 @@
+# SD Questions & Answers
+# Copyright (C) 2011
+# This file is distributed under the GPL v3.
+# Sverigedemokraterna IT <it@sverigedemokraterna.se>, 2011.
+#
+#: SD_QA.php:1359
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SD Questions & Answers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-29 14:38+0200\n"
+"PO-Revision-Date: xxxx-xx-xx xx:xx+0200\n"
+"Last-Translator: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language-Team: Sverigedemokraterna IT <it@sverigedemokraterna.se>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SD_QA.php:2368
+#, php-format
+msgid "%s asks:"
+msgstr ""
+
+#: SD_QA.php:4427
+msgid "A copy of the session log will be pasted into this post after which the session can be removed from the session overview. Note that the correct CSS must be loaded by the theme."
+msgstr ""
+
+#: SD_QA.php:1252
+msgid "A group of answer templates (see below)."
+msgstr ""
+
+#: SD_QA.php:1610
+msgid "Accept this question"
+msgstr ""
+
+#: SD_QA.php:3396
+msgid "Activate the session"
+msgstr ""
+
+#: SD_QA.php:873
+msgid "Active filters"
+msgstr ""
+
+#: SD_QA.php:910 SD_QA.php:921
+msgid "Add a new message"
+msgstr ""
+
+#: SD_QA.php:3951
+msgid "After the page loads you will have to log in before being able to answer questions. Type in this e-mail address after which questions will begin appearing automatically, after the moderator accepts them from the site visitors."
+msgstr ""
+
+#: SD_QA.php:3397
+msgid "Allows visitors to ask questions and guests to answer them."
+msgstr ""
+
+#: SD_QA.php:3492
+msgid "Always current - use the time when the message was created"
+msgstr ""
+
+#: SD_QA.php:1272 SD_QA.php:1539 SD_QA.php:2351
+msgid "Answer"
+msgstr ""
+
+#: SD_QA.php:4357
+msgid "Answer questions"
+msgstr ""
+
+#: SD_QA.php:2062
+msgid "Answered by"
+msgstr ""
+
+#: SD_QA.php:4358
+msgid "Answering a question"
+msgstr ""
+
+#: SD_QA.php:1819
+msgid "Answers"
+msgstr ""
+
+#: SD_QA.php:516 SD_QA.php:808 SD_QA.php:1124
+msgid "Apply"
+msgstr ""
+
+#: SD_QA.php:4359
+msgid "Ask a question"
+msgstr ""
+
+#: SD_QA.php:1751
+msgid "At most 10 unmoderated questions will be displayed. Click on a question to edit it."
+msgstr ""
+
+#: SD_QA.php:3478
+msgid "Automatically find links in answers and make them clickable. This also controls whether links are enabled in moderator messages."
+msgstr ""
+
+#: SD_QA.php:3484
+msgid "Automatically find links in questions and make them clickable."
+msgstr ""
+
+#: SD_QA.php:1622
+msgid "Ban this IP address"
+msgstr ""
+
+#: SD_QA.php:3417
+msgid "CSS class(es)"
+msgstr ""
+
+#: SD_QA.php:1218
+msgid "CSS files"
+msgstr ""
+
+#: SD_QA.php:1231
+msgid "CSS style"
+msgstr ""
+
+#: SD_QA.php:2033
+msgid "Click on a question to answer it. Unanswered questions will be discarded at the end of the session."
+msgstr ""
+
+#: SD_QA.php:1786
+msgid "Clicking on a question or answer will open the edit dialog."
+msgstr ""
+
+#: SD_QA.php:1116
+msgid "Clone"
+msgstr ""
+
+#: SD_QA.php:665 SD_QA.php:670
+msgid "Close the session"
+msgstr ""
+
+#: SD_QA.php:480
+#, php-format
+msgid "Closed: %s"
+msgstr ""
+
+#: SD_QA.php:672
+msgid "Closing the session will prevent any more questions and answers from being received and the log will be created."
+msgstr ""
+
+#: SD_QA.php:4416
+msgid "Convert the shortcode to static text"
+msgstr ""
+
+#: SD_QA.php:1025
+#, php-format
+msgid "Copy of %s"
+msgstr ""
+
+#: SD_QA.php:1158 SD_QA.php:1163
+msgid "Create a new display template"
+msgstr ""
+
+#: SD_QA.php:716 SD_QA.php:841
+msgid "Create a new guest"
+msgstr ""
+
+#: SD_QA.php:1553
+msgid "Create a new message with this answer"
+msgstr ""
+
+#: SD_QA.php:551 SD_QA.php:556
+msgid "Create a new session"
+msgstr ""
+
+#: SD_QA.php:1703
+msgid "Data"
+msgstr ""
+
+#: SD_QA.php:1263 SD_QA.php:1277 SD_QA.php:1298
+msgid "Date &amp; time"
+msgstr ""
+
+#: SD_QA.php:1387
+msgid "Date and time keywords"
+msgstr ""
+
+#: SD_QA.php:1263 SD_QA.php:1277 SD_QA.php:1298
+msgid "Date and time keywords, see bottom of page for a list."
+msgstr ""
+
+#: SD_QA.php:3943
+#, php-format
+msgid "Default display template created %s"
+msgstr ""
+
+#: SD_QA.php:509 SD_QA.php:801 SD_QA.php:1117 SD_QA.php:1704
+msgid "Delete"
+msgstr ""
+
+#: SD_QA.php:1559
+msgid "Delete the answer"
+msgstr ""
+
+#: SD_QA.php:1579
+msgid "Delete the message"
+msgstr ""
+
+#: SD_QA.php:1616 SD_QA.php:1666
+msgid "Delete the question"
+msgstr ""
+
+#: SD_QA.php:1697
+msgid "Delete this filter"
+msgstr ""
+
+#: SD_QA.php:1192
+msgid "Description"
+msgstr ""
+
+#: SD_QA.php:3314
+msgid "Display settings"
+msgstr ""
+
+#: SD_QA.php:1143 SD_QA.php:3408
+msgid "Display template"
+msgstr ""
+
+#: SD_QA.php:1046
+#, php-format
+msgid "Display template <em>%s</em> deleted."
+msgstr ""
+
+#: SD_QA.php:1034
+#, php-format
+msgid "Display template cloned! <a href=\"%s\">Edit the new display template</a>."
+msgstr ""
+
+#: SD_QA.php:1055
+#, php-format
+msgid "Display template created %s"
+msgstr ""
+
+#: SD_QA.php:1063
+#, php-format
+msgid "Display template created! <a href=\"%s\">Edit the display template</a>."
+msgstr ""
+
+#: SD_QA.php:264
+msgid "Display templates"
+msgstr ""
+
+#: SD_QA.php:508 SD_QA.php:800 SD_QA.php:1115
+msgid "Do nothing"
+msgstr ""
+
+#: SD_QA.php:4373
+msgid "E-mail address"
+msgstr ""
+
+#: SD_QA.php:1306
+msgid "E-mail subject"
+msgstr ""
+
+#: SD_QA.php:1314
+msgid "E-mail text"
+msgstr ""
+
+#: SD_QA.php:1087
+msgid "Edit"
+msgstr ""
+
+#: SD_QA.php:319
+msgid "Edit display template"
+msgstr ""
+
+#: SD_QA.php:271 SD_QA.php:455 SD_QA.php:459
+msgid "Edit session"
+msgstr ""
+
+#: SD_QA.php:1101
+msgid "Edit the display template"
+msgstr ""
+
+#: SD_QA.php:456
+msgid "Edit the session"
+msgstr ""
+
+#: SD_QA.php:326
+#, php-format
+msgid "Editing display template: %s"
+msgstr ""
+
+#: SD_QA.php:278
+#, php-format
+msgid "Editing session: %s"
+msgstr ""
+
+#: SD_QA.php:828
+msgid "Email"
+msgstr ""
+
+#: SD_QA.php:1380
+msgid "Email template"
+msgstr ""
+
+#: SD_QA.php:4360
+msgid "Error"
+msgstr ""
+
+#: SD_QA.php:1234
+msgid "Extra CSS styling."
+msgstr ""
+
+#: SD_QA.php:1702
+msgid "Filter type"
+msgstr ""
+
+#: SD_QA.php:1285
+msgid "Footer"
+msgstr ""
+
+#: SD_QA.php:1361 SD_QA.php:3304
+msgid "General settings"
+msgstr ""
+
+#: SD_QA.php:473
+msgid "Guest"
+msgstr ""
+
+#: SD_QA.php:731
+#, php-format
+msgid "Guest <em>%s</em> deleted."
+msgstr ""
+
+#: SD_QA.php:754
+msgid "Guest created!"
+msgstr ""
+
+#: SD_QA.php:4361
+msgid "Guest invited"
+msgstr ""
+
+#: SD_QA.php:700
+msgid "Guest name"
+msgstr ""
+
+#: SD_QA.php:708
+msgid "Guest's email address"
+msgstr ""
+
+#: SD_QA.php:473
+msgid "Guests"
+msgstr ""
+
+#: SD_QA.php:1240
+msgid "Header"
+msgstr ""
+
+#: SD_QA.php:1249
+msgid "How to display a group of question + answers."
+msgstr ""
+
+#: SD_QA.php:1294
+msgid "How to display a message from a moderator or guest."
+msgstr ""
+
+#: SD_QA.php:1273
+msgid "How to display one of the answers in a question + answers group."
+msgstr ""
+
+#: SD_QA.php:1261
+msgid "How to display the question of a question + answers group."
+msgstr ""
+
+#: SD_QA.php:660
+msgid "I am really sure I want to close the session. No more changes can be made."
+msgstr ""
+
+#: SD_QA.php:659
+msgid "I am sure"
+msgstr ""
+
+#: SD_QA.php:1600
+msgid "IP address"
+msgstr ""
+
+#: SD_QA.php:654
+msgid "If checked will keep all messages written by the moderator(s). If unchecked only the questions and answers will be saved to the permanent log."
+msgstr ""
+
+#: SD_QA.php:3403
+msgid "If checked, all questions will be moderated, else they will be sent directly to the guests."
+msgstr ""
+
+#: SD_QA.php:3490
+msgid "In the message window, what time should be displayed for messages and question &amp; answer groups? This assumes that the display template displays times. This setting does not affect the log."
+msgstr ""
+
+#: SD_QA.php:536 SD_QA.php:829 SD_QA.php:1144
+msgid "Info"
+msgstr ""
+
+#: SD_QA.php:3424
+msgid "Invitations sent to guests do not require logging in. Easier for the guests but lowers security."
+msgstr ""
+
+#: SD_QA.php:4363
+msgid "Invite"
+msgstr ""
+
+#: SD_QA.php:3423
+msgid "Invite logged in"
+msgstr ""
+
+#: SD_QA.php:653
+msgid "Keep moderator messages"
+msgstr ""
+
+#: SD_QA.php:1191
+msgid "Keyword"
+msgstr ""
+
+#: SD_QA.php:3500
+msgid "Latest messages first?"
+msgstr ""
+
+#: SD_QA.php:3325
+msgid "Limits"
+msgstr ""
+
+#: SD_QA.php:3477
+msgid "Links in answers"
+msgstr ""
+
+#: SD_QA.php:3483
+msgid "Links in questions"
+msgstr ""
+
+#: SD_QA.php:4364
+msgid "Loading Q&amp;A..."
+msgstr ""
+
+#: SD_QA.php:995
+msgid "Log"
+msgstr ""
+
+#: SD_QA.php:4365
+msgid "Login"
+msgstr ""
+
+#: SD_QA.php:4366
+msgid "Login failed"
+msgstr ""
+
+#: SD_QA.php:283 SD_QA.php:447 SD_QA.php:471
+#, php-format
+msgid "Manage guests"
+msgstr ""
+
+#: SD_QA.php:290
+#, php-format
+msgid "Managing guests for session: %s"
+msgstr ""
+
+#: SD_QA.php:3507
+msgid "Mark to allow the users to ask their questions in a specific tab. Unmark to allow the users to ask their questions underneath the messages panel."
+msgstr ""
+
+#: SD_QA.php:3472
+msgid "Maximum allowable length of a question."
+msgstr ""
+
+#: SD_QA.php:3471
+msgid "Maximum question length"
+msgstr ""
+
+#: SD_QA.php:898 SD_QA.php:1293
+msgid "Message"
+msgstr ""
+
+#: SD_QA.php:3489
+msgid "Message timestamp"
+msgstr ""
+
+#: SD_QA.php:872 SD_QA.php:4367
+msgid "Messages"
+msgstr ""
+
+#: SD_QA.php:1369
+msgid "Messages tab"
+msgstr ""
+
+#: SD_QA.php:3440
+msgid "Minimum allowable length of a message author."
+msgstr ""
+
+#: SD_QA.php:3448
+msgid "Minimum allowable length of a message."
+msgstr ""
+
+#: SD_QA.php:3456
+msgid "Minimum allowable length of a question's author."
+msgstr ""
+
+#: SD_QA.php:3464
+msgid "Minimum allowable length of a question."
+msgstr ""
+
+#: SD_QA.php:3432
+msgid "Minimum allowable length of an answer."
+msgstr ""
+
+#: SD_QA.php:3431
+msgid "Minimum answer length"
+msgstr ""
+
+#: SD_QA.php:3439
+msgid "Minimum message author length"
+msgstr ""
+
+#: SD_QA.php:3447
+msgid "Minimum message length"
+msgstr ""
+
+#: SD_QA.php:3455
+msgid "Minimum question author length"
+msgstr ""
+
+#: SD_QA.php:3463
+msgid "Minimum question length"
+msgstr ""
+
+#: SD_QA.php:295 SD_QA.php:420 SD_QA.php:424
+msgid "Moderate"
+msgstr ""
+
+#: SD_QA.php:421
+msgid "Moderate the questions for this session"
+msgstr ""
+
+#: SD_QA.php:3402
+msgid "Moderated"
+msgstr ""
+
+#: SD_QA.php:302
+#, php-format
+msgid "Moderating: %s"
+msgstr ""
+
+#: SD_QA.php:1629
+msgid "Moderation choices"
+msgstr ""
+
+#: SD_QA.php:1638
+msgid "Moderation tools"
+msgstr ""
+
+#: SD_QA.php:376 SD_QA.php:891 SD_QA.php:4368
+msgid "Moderator"
+msgstr ""
+
+#: SD_QA.php:827 SD_QA.php:890 SD_QA.php:1212 SD_QA.php:1768 SD_QA.php:3021
+#: SD_QA.php:3390
+msgid "Name"
+msgstr ""
+
+#: SD_QA.php:3494
+msgid "No change - use whatever is the default"
+msgstr ""
+
+#: SD_QA.php:764
+msgid "No guests found."
+msgstr ""
+
+#: SD_QA.php:393
+msgid "No sessions found."
+msgstr ""
+
+#: SD_QA.php:4369
+msgid "OK"
+msgstr ""
+
+#: SD_QA.php:484
+#, php-format
+msgid "Opened: %s"
+msgstr ""
+
+#: SD_QA.php:261
+msgid "Overview"
+msgstr ""
+
+#: SD_QA.php:2156
+msgid "Please ask the moderator to configure a display template for this session."
+msgstr ""
+
+#: SD_QA.php:4301
+msgid "Please contact the administrator: this Q&amp;A session does not have a display template."
+msgstr ""
+
+#: SD_QA.php:4370
+msgid "Please try again in a few moments."
+msgstr ""
+
+#: SD_QA.php:3955
+msgid "Q&A"
+msgstr ""
+
+#: SD_QA.php:237 SD_QA.php:238
+msgid "Q&amp;A"
+msgstr ""
+
+#: SD_QA.php:1248
+msgid "Q&amp;A group"
+msgstr ""
+
+#: SD_QA.php:1260 SD_QA.php:1818 SD_QA.php:2061 SD_QA.php:3029
+msgid "Question"
+msgstr ""
+
+#: SD_QA.php:3493
+msgid "Question time - use the question's original time"
+msgstr ""
+
+#: SD_QA.php:871
+msgid "Questions &amp; Answers"
+msgstr ""
+
+#: SD_QA.php:1418
+msgid "Role to use Q&amp;A"
+msgstr ""
+
+#: SD_QA.php:903
+msgid "Save message"
+msgstr ""
+
+#: SD_QA.php:534 SD_QA.php:826 SD_QA.php:1142
+msgid "Selected"
+msgstr ""
+
+#: SD_QA.php:2361
+msgid "Send in your answer"
+msgstr ""
+
+#: SD_QA.php:4371
+msgid "Send your question"
+msgstr ""
+
+#: SD_QA.php:535
+msgid "Session"
+msgstr ""
+
+#: SD_QA.php:366
+#, php-format
+msgid "Session <em>%s</em> deleted."
+msgstr ""
+
+#: SD_QA.php:375
+#, php-format
+msgid "Session created %s"
+msgstr ""
+
+#: SD_QA.php:384
+#, php-format
+msgid "Session created! <a href=\"%s\">Edit the new session</a>."
+msgstr ""
+
+#: SD_QA.php:334
+msgid "Settings"
+msgstr ""
+
+#: SD_QA.php:642
+msgid "Shortcode"
+msgstr ""
+
+#: SD_QA.php:3501
+msgid "Show the latest messages first when the session is active."
+msgstr ""
+
+#: SD_QA.php:324
+msgid "Specified display template does not exist!"
+msgstr ""
+
+#: SD_QA.php:276 SD_QA.php:288 SD_QA.php:300 SD_QA.php:312
+msgid "Specified session does not exist!"
+msgstr ""
+
+#: SD_QA.php:2939
+msgid "Submit your question"
+msgstr ""
+
+#: SD_QA_Base.php:415
+msgid "Super admin"
+msgstr ""
+
+#: SD_QA.php:938
+msgid "Tabs are reloaded every 30 seconds."
+msgstr ""
+
+#: SD_QA.php:1769
+msgid "Text"
+msgstr ""
+
+#: SD_QA.php:3418
+msgid "The CSS class(es) to add to the session's &lt;div&gt;."
+msgstr ""
+
+#: SD_QA.php:1276
+msgid "The answer text."
+msgstr ""
+
+#: SD_QA.php:352
+msgid "The cache directory wp-content/sd_qa_cache/ is not writable which prevents sessions from working. Create the directory and make it Wordpress writeable."
+msgstr ""
+
+#: SD_QA.php:1224
+msgid "The complete URL to the Q&amp;A plugin."
+msgstr ""
+
+#: SD_QA.php:1223
+msgid "The complete URL to the Wordpress installation."
+msgstr ""
+
+#: SD_QA.php:1343
+msgid "The display template has been updated!"
+msgstr ""
+
+#: SD_QA.php:2134
+msgid "The e-mail address you wrote was not recognized. Are you sure you're using the correct address?"
+msgstr ""
+
+#: SD_QA.php:743
+msgid "The email address is not valid!"
+msgstr ""
+
+#: SD_QA.php:709
+msgid "The email address is used to send out the invitation to the session."
+msgstr ""
+
+#: SD_QA.php:916
+msgid "The following messages are shown to visitors and guests. Click on a message to edit it."
+msgstr ""
+
+#: SD_QA.php:4362
+msgid "The guest has been invited. You should recieve a copy of the invitiation."
+msgstr ""
+
+#: SD_QA.php:1318
+msgid "The link to the page where the shortcode was used."
+msgstr ""
+
+#: SD_QA.php:1297
+msgid "The message text."
+msgstr ""
+
+#: SD_QA.php:1213
+msgid "The name of the display template is visible only to moderators."
+msgstr ""
+
+#: SD_QA.php:701
+msgid "The name of the guest, including any necessary HTML."
+msgstr ""
+
+#: SD_QA.php:1296
+msgid "The name of the message author, usually the moderator."
+msgstr ""
+
+#: SD_QA.php:1275
+msgid "The name of the person who answered the question."
+msgstr ""
+
+#: SD_QA.php:2995
+msgid "The name of the person who asked the question."
+msgstr ""
+
+#: SD_QA.php:1317
+msgid "The name of the recipient."
+msgstr ""
+
+#: SD_QA.php:3391
+msgid "The name of the session is visible only to moderators."
+msgstr ""
+
+#: SD_QA.php:3115
+#, php-format
+msgid "The person's name must be at least %s characters long!"
+msgstr ""
+
+#: SD_QA.php:3120
+#, php-format
+msgid "The person's question must be at least %s characters long!"
+msgstr ""
+
+#: SD_QA.php:1251
+msgid "The question template (see below)."
+msgstr ""
+
+#: SD_QA.php:2996
+msgid "The question text."
+msgstr ""
+
+#: SD_QA.php:602
+msgid "The session has been closed and the log has been generated!"
+msgstr ""
+
+#: SD_QA.php:616
+msgid "The session has been updated!"
+msgstr ""
+
+#: SD_QA.php:4102
+#, php-format
+msgid "The session was closed %s and can no longer be edited."
+msgstr ""
+
+#: SD_QA.php:1411
+msgid "The settings have been updated!"
+msgstr ""
+
+#: SD_QA.php:4424
+msgid "The shortcode on the page is currently displaying the log of the session. Use the button below to convert the shortcode to static HTML."
+msgstr ""
+
+#: SD_QA.php:1307
+msgid "The subject of the invitation email sent to guests."
+msgstr ""
+
+#: SD_QA.php:1286
+msgid "The text displayed after all of the question groups."
+msgstr ""
+
+#: SD_QA.php:1241
+msgid "The text displayed before all of the question groups."
+msgstr ""
+
+#: SD_QA.php:1315
+msgid "The text of the invitation email sent to guests."
+msgstr ""
+
+#: SD_QA.php:1685
+msgid "There are no filters configured. All questions will be moderated."
+msgstr ""
+
+#: SD_QA.php:2027
+msgid "There are no questions available for you to answer. This text will be disappear as soon as new questions become available."
+msgstr ""
+
+#: SD_QA.php:1782
+msgid "There are no questions."
+msgstr ""
+
+#: SD_QA.php:1741
+msgid "There are no unmoderated questions."
+msgstr ""
+
+#: SD_QA.php:3949
+msgid "This is your invitation to join a question and answer session as a guest. The moderator should previously have contacted you about your Q&A session."
+msgstr ""
+
+#: SD_QA.php:3952
+msgid "To answer a question, click on it and type in your answer. The question will then disappear from your list of unanswered questions and reappear in the message window."
+msgstr ""
+
+#: SD_QA.php:4372
+msgid "To begin answering questions you need to login using your email address."
+msgstr ""
+
+#: SD_QA.php:644
+#, php-format
+msgid "To include this session on a page, use the shortcode: %s"
+msgstr ""
+
+#: SD_QA.php:3950
+msgid "To join the session, use the following link: <a href=\"#url#\">#url#</a>"
+msgstr ""
+
+#: SD_QA.php:1810
+msgid "Unanswered"
+msgstr ""
+
+#: SD_QA.php:337
+msgid "Uninstall"
+msgstr ""
+
+#: SD_QA.php:870
+msgid "Unmoderated questions"
+msgstr ""
+
+#: SD_QA.php:1326 SD_QA.php:1426 SD_QA.php:3512
+msgid "Update settings"
+msgstr ""
+
+#: SD_QA.php:1547
+msgid "Update the answer"
+msgstr ""
+
+#: SD_QA.php:1660
+msgid "Update this question"
+msgstr ""
+
+#: SD_QA.php:3506
+msgid "Use a seperate question tab"
+msgstr ""
+
+#: SD_QA.php:307 SD_QA.php:435 SD_QA.php:439
+msgid "View log"
+msgstr ""
+
+#: SD_QA.php:436
+msgid "View the log for this closed session"
+msgstr ""
+
+#: SD_QA.php:314
+#, php-format
+msgid "Viewing log for: %s"
+msgstr ""
+
+#: SD_QA.php:2026
+#, php-format
+msgid "Welcome %s"
+msgstr ""
+
+#: SD_QA.php:1419
+msgid "What is the minimum use role needed to access the Q&amp;A administration interface?"
+msgstr ""
+
+#: SD_QA.php:1221
+msgid "Which CSS files to load, if any."
+msgstr ""
+
+#: SD_QA.php:3409
+msgid "Which display template to use."
+msgstr ""
+
+#: SD_QA.php:506 SD_QA.php:798 SD_QA.php:1113
+msgid "With the selected rows"
+msgstr ""
+
+#: SD_QA.php:4411
+msgid "Yes, I am sure"
+msgstr ""
+
+#: SD_QA.php:3945
+#, php-format
+msgid "You are invited to a question and answer session at %s"
+msgstr ""
+
+#: SD_QA.php:1388
+#, php-format
+msgid "You may use all the format characters that %sPHP's date() function%s uses. Enclose each character in a pair of hashes and Q&amp;A should automatically replace them with the correct value."
+msgstr ""
+
+#: SD_QA.php:1887 SD_QA.php:2170
+#, php-format
+msgid "Your answer must be at least %s characters long."
+msgstr ""
+
+#: SD_QA.php:1843
+#, php-format
+msgid "Your message must be at least %s characters long!"
+msgstr ""
+
+#: SD_QA.php:2933
+msgid "Your name"
+msgstr ""
+
+#: SD_QA.php:1838 SD_QA.php:3162
+#, php-format
+msgid "Your name must be at least %s characters long!"
+msgstr ""
+
+#: SD_QA.php:2936
+msgid "Your question"
+msgstr ""
+
+#: SD_QA.php:4374
+msgid "Your question has been sent to the moderators."
+msgstr ""
+
+#: SD_QA.php:3175
+#, php-format
+msgid "Your question is too long! You may write at most %s characters. You tried to send %s characters."
+msgstr ""
+
+#: SD_QA.php:3168
+#, php-format
+msgid "Your question must be at least %s characters long!"
+msgstr ""
+
+#: SD_QA.php:1805
+msgid "answers"
+msgstr ""
+
+#: SD_QA.php:1812
+msgid "asks"
+msgstr ""

@@ -1,0 +1,218 @@
+/**
+	The tabs themselves
+**/
+.sd_qa
+{
+	font-family: Verdana, Sans-serif;
+	min-height: 16px;
+	margin-bottom: 2em;
+}
+
+.sd_qa .tab
+{
+	height: 500px;
+	max-height: 500px;
+	overflow: auto;
+	background-color: white;
+}
+
+.sd_qa .loading_qa
+{
+	text-align: center;
+	padding-top: 4em
+}
+
+/**
+	Q&A groups & Messages
+**/
+.sd_qa .sd_qa_group,
+.sd_qa .message
+{
+	margin-bottom: 5px;
+	padding: 5px 5px 0;
+}
+
+.sd_qa .sd_qa_group .question .datetime,
+.sd_qa .sd_qa_group .answer .datetime,
+.sd_qa .message .datetime
+{
+	font-size: 8pt;
+	color: #999;
+}
+
+.sd_qa_closed .sd_qa_group .question .datetime,
+.sd_qa_closed .sd_qa_group .answer .datetime,
+.sd_qa_closed .sd_qa .message .datetime
+{
+	display: none;
+}
+
+.sd_qa .sd_qa_group .question,
+.sd_qa .sd_qa_group .answer,
+.sd_qa .message
+{
+	clear: both;
+	overflow: hidden;
+}
+
+.sd_qa .sd_qa_group .question .name,
+.sd_qa .sd_qa_group .answer .name,
+.sd_qa .message .name
+{
+	float: left;
+	font-weight: bold;
+	line-height: 18px;
+}
+
+.sd_qa .message .name
+{
+	color: #cc0000;
+}
+
+.sd_qa .seperator
+{
+	float: left;
+	padding-right: 0.25em;
+	line-height: 18px;
+}
+
+.sd_qa_group .answer .name
+{
+	color: #0099cc;
+}
+
+.sd_qa_group .question .text p,
+.sd_qa_group .answer .text p,
+.sd_qa .message .name p,
+.sd_qa .message .text p
+{
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	line-height: 18px;
+}
+
+/**
+	Moderator guests
+**/
+.sd_qa .moderator .guest
+{
+	clear: both;
+	overflow: hidden;
+}
+
+.sd_qa .moderator .guest .name
+{
+	float: left;
+}
+
+.sd_qa .moderator .guest .invite_button
+{
+	float: right;
+}
+
+/**
+	Edit answer
+**/
+.sd_qa table.unanswered_questions tr.row_even
+{
+	background-color: #eee;
+}
+
+.sd_qa table.unanswered_questions tbody
+{
+	cursor: pointer;
+}
+
+
+.sd_qa .sd_edit_answer .question_text
+{
+	font-style: italic;
+}
+
+/**
+	Ask a question - non-tabbed and then resets if the panel is tabbed.
+	
+	Too bad there isn't a !.ui-tabs-panel type selector.
+**/
+.sd_qa .ask_a_question
+{
+	padding: 0.25em 0.5em 0.5em;
+	background-color: #e3f3f9;
+	border-style: solid;
+	border-width: 0 thin thin thin;
+	border-color: #d1d1d1;
+}
+
+.sd_qa .ui-tabs-panel .ask_a_question
+{
+	padding: 0;
+	border: none;
+	background-color: inherit;
+}
+
+/**
+    Hide the tab bar completely if the visitor is just a visitor and not a guest or moderator.
+**/
+.sd_qa .is_visitor .use_question_tab_0 .ui-tabs-nav
+{
+    display: none;
+}
+
+/**
+	Textareas should not be massive
+**/
+.sd_qa .ask_a_question textarea
+, .sd_qa textarea#__answer_text
+, body.toplevel_page_sd_qa #add_message_dialog textarea
+, body.toplevel_page_sd_qa textarea#__answer_text
+, body.toplevel_page_sd_qa textarea#question_text
+{
+	width: 100%;
+}
+
+/**
+	Misc
+**/
+.sd_qa .busy
+{
+	background-image: url( "../images/mozilla_blu.gif" ) !important;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+}
+
+/**
+	After the first question has been submitted, we already know the user's name and therefore shouldn't allow the user to view or change it.
+**/
+.sd_qa .first_question_submitted .ask_a_question .name
+{
+	display: none;
+}
+
+.sd_qa .ui-tabs .ui-tabs-panel
+{
+	padding: 15px;
+}
+
+.sd_qa .messages
+{
+	padding: 0 !important;
+}
+
+.sd_qa .unshortcode
+{
+	background-color: #e3f3f9;
+	padding: 5px;
+}
+
+.sd_qa a
+{
+	font-style: italic;
+}
+
+/**
+	Make the selected tab link white
+**/
+.sd_qa  .ui-tabs-selected a
+{
+	color: white !important;
+}
